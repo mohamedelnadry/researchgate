@@ -1,0 +1,702 @@
+[
+    {
+        "header": "Investigation on biomedical waste management of hospitals using cohort intelligence algorithm",
+        "type_1": "Article",
+        "date": "Dec 2021",
+        "download_url": "publication/347473203_Investigation_on_biomedical_waste_management_of_hospitals_using_cohort_intelligence_algorithm/download",
+        "abstract": "With the innovative development of advanced technology in the field of medical, there is an enlargement in the generation of other problems such as management of biomedical waste. Hazardous waste generated from hospitals is required to be managed within time and it can be done effectively using some computer science technology. In the proposed meth..."
+    },
+    {
+        "header": "First International Conference on Artificial Intelligence & Data Analytics (CAIDA 2021)",
+        "type_1": "Poster",
+        "date": "Apr 2021",
+        "download_url": "publication/346928231_First_International_Conference_on_Artificial_Intelligence_Data_Analytics_CAIDA_2021/download",
+        "abstract": "First Virtual International Conference on Artificial Intelligence & Data Analytics (CAIDA) 2021 provides an opportunity for national and international researchers to present their novel research findings and exchange information with the research community.CAIDA 2021 will bring along specialists, leading researchers, scholars, scientists, professor..."
+    },
+    {
+        "header": "The Role of Race and Gender in Teaching Evaluation of Computer Science Professors: A Large Scale Analysis on RateMyProfessor Data",
+        "type_1": "Preprint",
+        "date": "Mar 2021",
+        "download_url": "publication/344552831_The_Role_of_Race_and_Gender_in_Teaching_Evaluation_of_Computer_Science_Professors_A_Large_Scale_Analysis_on_RateMyProfessor_Data/download",
+        "abstract": "Recently, Computer Science (CS) education has experienced a renewed interest, driven by the demand in the fast-changing job market. This renewed interest created an uptick of enrolment in computer science courses. Increased number of students search for information about CS courses and professors. Often times, students turn to a professor's profile..."
+    },
+    {
+        "header": "Nonlinear Control Strategies for a UAV Carrying a Load with Swing Attenuation",
+        "type_1": "Article",
+        "date": "Mar 2021",
+        "download_url": "publication/344382531_Nonlinear_Control_Strategies_for_a_UAV_Carrying_a_Load_with_Swing_Attenuation/download",
+        "abstract": "Two novel nonlinear control schemes for Unmanned Aerial Vehicles (UAV) carrying a load and their comparative results are presented in this paper. The goal is to carry the load to a desired position, with oscillation attenuation along the trajectory. The proposed control structures are hierarchical schemes consisting of nonlinear controllers to stab..."
+    },
+    {
+        "header": "Valid attacks in argumentation frameworks with recursive attacks",
+        "type_1": "Article",
+        "date": "Feb 2021",
+        "download_url": "publication/346075274_Valid_attacks_in_argumentation_frameworks_with_recursive_attacks/download",
+        "abstract": "The purpose of this work is to study a generalisation of Dung\u2019s abstract argumentation frameworks that allows representing recursive attacks, that is, a class of attacks whose targets are other attacks. We do this by developing a theory of argumentation where the classic role of attacks in defeating arguments is replaced by a subset of them, which..."
+    },
+    {
+        "header": "A review of human skin detection applications based on image processing",
+        "type_1": "Article",
+        "date": "Feb 2021",
+        "download_url": "publication/344323908_A_review_of_human_skin_detection_applications_based_on_image_processing/download",
+        "abstract": "In computer science, virtual image processing is the use of a digital computer to manipulate digital images through an algorithm for many applications. To begin with a new research topic, the must trend application that gets many requests to develop should know. Therefore, many applications based on human skin and human life are reviewed in this ar..."
+    },
+    {
+        "header": "Algorithms as a Basis of Modern Applied Mathematics",
+        "type_1": "Book",
+        "date": "Jan 2021",
+        "download_url": "publication/344300695_Algorithms_as_a_Basis_of_Modern_Applied_Mathematics/download",
+        "abstract": "This book offers a self-contained guide to advanced algorithms and their applications in various fields of science. Gathering contributions by authoritative researchers in the field of mathematics, statistics and computer science, it aims at offering a comprehensive and up-to-date view of algorithms, including the theory behind them, as well as pra..."
+    },
+    {
+        "header": "Improving girls\u2019 perception of computer science as a viable career option through game playing and design: Lessons from a systematic literature review",
+        "type_1": "Article",
+        "date": "Jan 2021",
+        "download_url": "publication/345126113_Improving_girls'_perception_of_computer_science_as_a_viable_career_option_through_game_playing_and_design_Lessons_from_a_systematic_literature_review/download",
+        "abstract": "The objective of exposing girls to Computer Science as a career option has led to research directed towards gaming activities for girls. These activities include both game play and game design. Research about gaming activities for increasing girls\u2019 interest in computer science has gained much attention over the past few years and has resulted in a..."
+    },
+    {
+        "header": "ASSISTECH: An Accidental Journey into Assistive Technology",
+        "type_1": "Chapter",
+        "date": "Jan 2021",
+        "download_url": "publication/343346987_ASSISTECH_An_Accidental_Journey_into_Assistive_Technology/download",
+        "abstract": "ASSISTECH is an inter-disciplinary laboratory located in Amar Nath Sashi Khosla School of Information Technology and is born out of the initial work of faculty and students in Department of Computer Science and Engineering. ASSISTECH has achieved some success in its 12 + years of existence in not only designing affordable products and solutions for..."
+    },
+    {
+        "header": "Peter Marwedel and the Department of Computer Science of the TU Dortmund University",
+        "type_1": "Chapter",
+        "date": "Jan 2021",
+        "download_url": "publication/343347056_Peter_Marwedel_and_the_Department_of_Computer_Science_of_the_TU_Dortmund_University/download",
+        "abstract": "A seventieth birthday is an appropriate occasion to look back on the life path so far. In the following, this is done for Professor Peter Marwedel from the perspective of the Department of Computer Science of TU Dortmund University, where he spent the essential time of his professional life."
+    },
+    {
+        "header": "International Journal of Advance Research in Computer Science and Management Studies Development of Simulator for Simple Command Post Integrated Data Display using Assurance Case",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347909925_International_Journal_of_Advance_Research_in_Computer_Science_and_Management_Studies_Development_of_Simulator_for_Simple_Command_Post_Integrated_Data_Display_using_Assurance_Case/download",
+        "abstract": "Software design for mission critical systems is challenging and often needs utmost care in ensuring all the essential requirements of system are met without any compromise on quality and reliability of system deliverables. Present paper has explored an approach of developing software for command post integrated data display Simulator based on Assur..."
+    },
+    {
+        "header": "A Machine-Learning based Approach to Support Academic Decision-Making at Higher Educational Institutions",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/344193132_A_Machine-Learning_based_Approach_to_Support_Academic_Decision-Making_at_Higher_Educational_Institutions/download",
+        "abstract": "Taking appropriate decisions in the academic processes at a university has a great impact in improving the quality of education and can have an important benefit for students, faculty members, and the entire academic community. In this paper, we propose a decision support solution providing accurate analysis, better decision support, and reporting..."
+    },
+    {
+        "header": "Quantum-Classical Mechanics: Principles, Applications, and Prospects (plenary presentation) _International Webinar on Advances in Physics, Chemistry, Mathematics, Computer Sciences & Biological Sciences_18 - 20 December 2020",
+        "type_1": "Presentation",
+        "date": "Dec 2020",
+        "download_url": "publication/347891762_Quantum-Classical_Mechanics_Principles_Applications_and_Prospects_plenary_presentation_International_Webinar_on_Advances_in_Physics_Chemistry_Mathematics_Computer_Sciences_Biological_Sciences_18_-_20_/download",
+        "abstract": "Quantum-classical electron as organizing principle in nature"
+    },
+    {
+        "header": "Yefimov E.LENA. RU-EN AE",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/338764323_Yefimov_ELENA_RU-EN_AE/download",
+        "abstract": "Some people wrongly believe that A. Turing\u2019s works that underlie all modern computer science never discussed \u201cphysical\u201d robots. This is not so, since Turing did speak about such machines, though making a reservation that this discussion was still premature. In particular, in his 1948 report [8], he suggested that a physical intelligent machine equi..."
+    },
+    {
+        "header": "Analysis of co-authorship networks among Brazilian graduate programs in computer science",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347797242_Analysis_of_co-authorship_networks_among_Brazilian_graduate_programs_in_computer_science/download",
+        "abstract": "The growth and popularization of platforms on scientific production have been the subject of several studies, producing relevant analyses of coauthorship behavior among groups of researchers. Researchers and their scientific productions can be analyzed as coauthorship social networks, so researchers are linked through common publications. In this c..."
+    },
+    {
+        "header": "O_n$ is an $n$-MCFL",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347624173_O_n_is_an_n-MCFL/download",
+        "abstract": "Commutative properties in formal languages pose problems at the frontier of computer science, computational linguistics and computational group theory. A prominent problem of this kind is the position of the language $O_n$, the language that contains the same number of letters $a_i$ and $\\bar a_i$ with $1\\leq i\\leq n$, in the known classes of forma..."
+    },
+    {
+        "header": "AUTONOMOUS LUGGAGE CARRIER HEXAPOD",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347827083_AUTONOMOUS_LUGGAGE_CARRIER_HEXAPOD/download",
+        "abstract": "In the last few years, there has been a lot of advancements in Robotics and Computer Science, to an extent that Robotic Devices are now included in our daily life and help us in our day to day activities. The more important thing is that this is not the peak, this is just the beginning, there is a lot of research going on in this field with the aim..."
+    },
+    {
+        "header": "Self-Supervised Learning for Visual Summary Identification in Scientific Publications",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347534604_Self-Supervised_Learning_for_Visual_Summary_Identification_in_Scientific_Publications/download",
+        "abstract": "Providing visual summaries of scientific publications can increase information access for readers and thereby help deal with the exponential growth in the number of scientific publications. Nonetheless, efforts in providing visual publication summaries have been few and fart apart, primarily focusing on the biomedical domain. This is primarily beca..."
+    },
+    {
+        "header": "Staying Safe in COVID-19",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347887489_Staying_Safe_in_COVID-19/download",
+        "abstract": "We protect the community. We protect ourselves. We decongest the health system. We stay safe in COVID-19. One of the many responses to the global call against the world pandemic of COVID-19 resulted in \u201cSafe in COVID-19\u201d, an electronic platform developed by the Institute of Computer Science of the Foundation for Research and Technology \u2013 Hellas (FO..."
+    },
+    {
+        "header": "TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347535318_TechTexC_Classification_of_Technical_Texts_using_Convolution_and_Bidirectional_Long_Short_Term_Memory_Network/download",
+        "abstract": "This paper illustrates the details description of technical text classification system and its results that developed as a part of participation in the shared task TechDofication 2020. The shared task consists of two sub-tasks: (i) first task identify the coarse-grained technical domain of given text in a specified language and (ii) the second task..."
+    },
+    {
+        "header": "Methods of Information in Medicine",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347507808_Methods_of_Information_in_Medicine/download",
+        "abstract": "Abstract: Virtual reality (VR), as part of computer science, allows\ncomputer-based models of the real world to be generated, and provides\nhumans with a means to inieract with these models through new humancomputer\ninterfaces and, thus, to nearly realistically experience these\nmodels. This contribution explores the technical requirements for VR,\ndes..."
+    },
+    {
+        "header": "Simbionte -\u00c9tica da computa\u00e7\u00e3o Symbiont -Ethics of computing Simbionte -\u00c9tica de la computaci\u00f3n",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347511774_Simbionte_-Etica_da_computacao_Symbiont_-Ethics_of_computing_Simbionte_-Etica_de_la_computacion/download",
+        "abstract": "Resumo Neste trabalho se encontra uma conex\u00e3o entre a educa\u00e7\u00e3o matem\u00e1tica e a arquitetura do conhecimento da computa\u00e7\u00e3o, na no\u00e7\u00e3o de sistema formal. O que contamos aqui \u00e9 a hist\u00f3ria do fracasso do bloqueio da simbiose de sistemas de pensamento heterog\u00eaneos. Essa \u00e9 a hist\u00f3ria da computa\u00e7\u00e3o, como momento talvez culminante de um projeto de unifica\u00e7\u00e3o..."
+    },
+    {
+        "header": "Methodological recommendations to face an online semester in a catastrophic situation: the case of a computer science program during the COVID-19 lockdown",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/347484921_Methodological_recommendations_to_face_an_online_semester_in_a_catastrophic_situation_the_case_of_a_computer_science_program_during_the_COVID-19_lockdown/download",
+        "abstract": "The pandemic context forced most of the Higher Education Institutions, and therefore their faculties, to face a semester of teaching in an online mode. The universities defined general guidelines and strategies to try to guarantee a minimum quality of the process. However, the literature reports that, depending on its particularities, preparing a s..."
+    },
+    {
+        "header": "Ci\u00eancia Da Computa\u00e7\u00e3o: Tecnologias Emergentes Em Computa\u00e7\u00e3o",
+        "type_1": "Book",
+        "date": "Dec 2020",
+        "download_url": "publication/347486034_Ciencia_Da_Computacao_Tecnologias_Emergentes_Em_Computacao/download",
+        "abstract": "Ci\u00eancia Da Computa\u00e7\u00e3o: Tecnologias Emergentes Em Computa\u00e7\u00e3o"
+    },
+    {
+        "header": "Experimental relativistic zero-knowledge proofs",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347534530_Experimental_relativistic_zero-knowledge_proofs/download",
+        "abstract": "Protecting secrets is a key challenge in our contemporary information-based era. In common situations, however, revealing secrets appears unavoidable, for instance, when identifying oneself in a bank to retrieve money. In turn, this may have highly undesirable consequences in the unlikely, yet not unrealistic, case where the bank's security gets co..."
+    },
+    {
+        "header": "M\u00e9thodes informatiques pour l\u2019\u00e9tude des gravures rupestres : les exemples du Valcamonica (Italie) et du mont Bego (France)",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347437308_Methodes_informatiques_pour_l'etude_des_gravures_rupestres_les_exemples_du_Valcamonica_Italie_et_du_mont_Bego_France/download",
+        "abstract": "Le Valcamonica (100 000 gravures estim\u00e9es) et le mont Bego (36 000 gravures) sont les deux principales concentrations d\u2019art rupestre pour la M\u00e9diterran\u00e9e occidentale au cours de la Pr\u00e9histoire r\u00e9cente. Bien que des recherches y aient \u00e9t\u00e9 men\u00e9es depuis de nombreuses ann\u00e9es : au Valcamonica par E. Anati (1960, 2008) et au mont Bego par H. de Lumley e..."
+    },
+    {
+        "header": "Inaugural Address at CONIAPS XXVI_Advertisement",
+        "type_1": "Cover Page",
+        "date": "Dec 2020",
+        "download_url": "publication/347892057_Inaugural_Address_at_CONIAPS_XXVI_Advertisement/download",
+        "abstract": "Russian Prof. Vladimir V. Egorov to inaugurate 26th International Webinar on Advances in Physics, Chemistry, Mathematics, Computer Sciences & Biological Sciences (CONIAPS XXVI) hosted by MG University."
+    },
+    {
+        "header": "Ethical implications of emotion mining in medicine",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347387717_Ethical_implications_of_emotion_mining_in_medicine/download",
+        "abstract": "The tools of emotion mining were developed in the field of computer science to detect and evaluate human emotions. In recent years we have seen an evolution of novel health technologies that utilise data-driven emotion mining for mental health diagnostics and assessment. Our paper describes the new ethical scenarios posed by these models through a..."
+    },
+    {
+        "header": "Game theory and its place in socioeconomic life",
+        "type_1": "Chapter",
+        "date": "Dec 2020",
+        "download_url": "publication/347389598_Game_theory_and_its_place_in_socioeconomic_life/download",
+        "abstract": "Game theory is a mathematical model of the interaction between independent agents who want to maximize their interests. The application of the theory is evaluated through the mathematical models of the computer, which is the tool of digital technology. In this respect, theory is increasingly being applied to include disciplines as diverse as politi..."
+    },
+    {
+        "header": "Toward understanding the conditions that promote higher attention in software developments -- a first step on music and standups",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347398436_Toward_understanding_the_conditions_that_promote_higher_attention_in_software_developments_--_a_first_step_on_music_and_standups/download",
+        "abstract": "Nowadays, Computer Science tightly entered all spheres of human activity. To improve quality and speed of development process, it is important to help programmers improve their working conditions. This paper proposes a vision on exploring this issue and presents in conjunction a factor that has been claimed multiple time to affect the effectiveness..."
+    },
+    {
+        "header": "Conte\u00fado Conceitual e Aspectos Pr\u00e1ticos da Ci\u00eancia da Computa\u00e7\u00e3o",
+        "type_1": "Book",
+        "date": "Dec 2020",
+        "download_url": "publication/347217727_Conteudo_Conceitual_e_Aspectos_Praticos_da_Ciencia_da_Computacao/download",
+        "abstract": "A Ci\u00eancia da Computa\u00e7\u00e3o, traz in\u00fameros benef\u00edcios para a sociedade\nmoderna, tais como: a cria\u00e7\u00e3o de empregos, o desenvolvimento de novos\nequipamentos, o ganho de produtividade nas empresas e o acesso \u00e0 informa\u00e7\u00e3o.\nOs estudos realizados nesta \u00e1rea s\u00e3o aplicados em diversas outras \u00e1reas do\nconhecimento, proporcionando a resolu\u00e7\u00e3o de diferentes proble..."
+    },
+    {
+        "header": "miRID: Multi-Modal Image Registration Using Modality-Independent and Rotation-Invariant Descriptor",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347646438_miRID_Multi-Modal_Image_Registration_Using_Modality-Independent_and_Rotation-Invariant_Descriptor/download",
+        "abstract": "Axiomatically, symmetry is a fundamental property of mathematical functions defining similarity measures, where similarity measures are important tools in many areas of computer science, including machine learning and image processing. In this paper, we investigate a new technique to measure the similarity between two images, a fixed image and a mo..."
+    },
+    {
+        "header": "Experimental pedagogical activity when teaching computer science to younger students",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347255968_Experimental_pedagogical_activity_when_teaching_computer_science_to_younger_students/download",
+        "abstract": "Problem and goal. One of the important components of the educational and methodical work of a teacher who teaches computer science to younger students is the quality control of the acquired system of knowledge of schoolchildren, which involves experimental pedagogical activity. Such experimental pedagogical activities include pedagogical experiment..."
+    },
+    {
+        "header": "5G Networks Course Outline SYSC5804 Advanced Topics in Communications Systems COMP 5900 Selected Topics in Computer Science ITEC 5910W Selected Topics in Network Technologies",
+        "type_1": "Book",
+        "date": "Dec 2020",
+        "download_url": "publication/347273033_5G_Networks_Course_Outline_SYSC5804_Advanced_Topics_in_Communications_Systems_COMP_5900_Selected_Topics_in_Computer_Science_ITEC_5910W_Selected_Topics_in_Network_Technologies/download",
+        "abstract": "1. Erik Dahlman, Stefan Parkvall, Johan Skold, 5G NR: The Next Generation Wireless\nAccess Technology, Academic Press, 2018.\n2. Saad Z. Asif, 5G Mobile Communications - Concepts and Technologies, Taylor &\nFrancis Group LLC - CRC Press, 2019."
+    },
+    {
+        "header": "Development of Program Comprehension Skills by Novice Programmers - Longitudinal Eye Tracking Studies",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346986408_Development_of_Program_Comprehension_Skills_by_Novice_Programmers_-_Longitudinal_Eye_Tracking_Studies/download",
+        "abstract": "The article discusses the findings of longitudinal studies (three stages spanning 6 months) which were to investigate the process of acquiring the ability to comprehension program code by the computer science students having started to learn to program. The studies were conducted with the use of a knowledge measurement test, the diagnostic survey,..."
+    },
+    {
+        "header": "Evaluating an Educational Escape Room Conducted Remotely for Teaching Software Engineering",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347631440_Evaluating_an_Educational_Escape_Room_Conducted_Remotely_for_Teaching_Software_Engineering/download",
+        "abstract": "With the rise of distance learning, new challenges have emerged for educators. Among these challenges, developing effective and motivating group activities for students in the remote classroom is one of the top priorities to be addressed. According to existing literature, educational escape rooms have proven to be engaging and effective learning ac..."
+    },
+    {
+        "header": "Creating a sustainable digital infrastructure: The role of service-oriented architecture",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/346989191_Creating_a_sustainable_digital_infrastructure_The_role_of_service-oriented_architecture/download",
+        "abstract": "Note: This paper was presented at the Centeris conference Oct 22 2020. The paper is forthcoming in Procedia Computer Science, Elsevier. \n\nAbstract: The United Nations' goal of generating sustainable industry, innovation, and infrastructure is the point of departure for our reflective paper. The paper elaborates on the concepts of digital infrastruc..."
+    },
+    {
+        "header": "Researcher Profile: Przemys\u0142aw Prusinkiewicz",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347606285_Researcher_Profile_Przemyslaw_Prusinkiewicz/download",
+        "abstract": "Przemys\u0142aw (Przemek) Prusinkiewicz is a Professor of Computer Science at the University of Calgary, Canada, where he creates models, simulations and visualizations of plant development. He received his MSc and PhD at the Technical University of Warsaw where he studied Computer Science and Engineering under Prof. Stanislaw Budkowski."
+    },
+    {
+        "header": "Middle School Teachers' Self-efficacy in Teaching Computer Science and Digital Literacy",
+        "type_1": "Poster",
+        "date": "Dec 2020",
+        "download_url": "publication/346954261_Middle_School_Teachers'_Self-efficacy_in_Teaching_Computer_Science_and_Digital_Literacy/download",
+        "abstract": "This pilot study explores the impact of the CS Pathways professional development (PD) program on the teachers' self-efficacy in teaching a middle school computer science and digital literacy (CSDL) curriculum. The main goal of the study is to investigate the attributes that describe the teachers' self-efficacy after their first-year participation i..."
+    },
+    {
+        "header": "Volumen 16 (2020)",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346955574_Volumen_16_2020/download",
+        "abstract": "In the work, a system of didactic procedures is proposed to perfect the investigative skills of Computer Science students. It was prepared as part of a doctoral thesis, using the Functional Structural Systemic Method. It has been applied at the Universidad de Oriente (UO) for five courses, with results that have confirmed that the system provides s..."
+    },
+    {
+        "header": "New Teaching Methods by Using Microcontrollers in Teaching Programming",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346927297_New_Teaching_Methods_by_Using_Microcontrollers_in_Teaching_Programming/download",
+        "abstract": "Everyone knows that IT and IT education are important today. Within that, programming has a high priority. From the point of view of education, it does not matter what method we teach. In the educational process, it is very important to attract students' attention and interest in programming. Programming methodology is one of the oldest areas of co..."
+    },
+    {
+        "header": "RIT Computer Science \u2022 Capstone Report \u2022 20201 Data Recovery with Erasure Coding for Batched Ciphertexts in Fully Homomorphic Encryption",
+        "type_1": "Research Proposal",
+        "date": "Dec 2020",
+        "download_url": "publication/346851058_RIT_Computer_Science_Capstone_Report_20201_Data_Recovery_with_Erasure_Coding_for_Batched_Ciphertexts_in_Fully_Homomorphic_Encryption/download",
+        "abstract": "Storage systems have grown to the point where failures are inevitable. Sometimes part of disk sectors become corrupted, other times entire disks become unavailable for use. Thus overtime, researchers came up with recovery codes that worked with plain text and recovered data upto one disk. Later, two disk recovery codes were also available such as X..."
+    },
+    {
+        "header": "THE EFFECTIVENESS OF TIMELINE INTERACTIVE WEB SERVICE IN DELIVERING LESSONS ON \u201cHISTORY OF PERSONAL COMPUTERS\u201d",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347625797_THE_EFFECTIVENESS_OF_TIMELINE_INTERACTIVE_WEB_SERVICE_IN_DELIVERING_LESSONS_ON_HISTORY_OF_PERSONAL_COMPUTERS/download",
+        "abstract": "The article provides information on the role of timeline interactive web service in the educational process, the advantages of visualization of computer science topics using timeline and their application in the educational process."
+    },
+    {
+        "header": "Build your Own [Virtual] Microprocessor (CDT-48)",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347003139_Build_your_Own_Virtual_Microprocessor_CDT-48/download",
+        "abstract": "Though mostly unnoticed, microprocessors are everywhere, being responsible for operation of a wide range of critically important systems. Learning microprocessor concepts can therefore contribute to better understanding computer science and architecture, as well as providing basis for probing further into assembly, operating systems, microcontrolle..."
+    },
+    {
+        "header": "Toward Understanding the Conditions that Promote Higher Attention in Software Developments -A First Step on Music and Standups",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346924158_Toward_Understanding_the_Conditions_that_Promote_Higher_Attention_in_Software_Developments_-A_First_Step_on_Music_and_Standups/download",
+        "abstract": "Nowadays, Computer Science tightly entered all spheres of human activity. To improve quality and speed of development process, it is important to help programmers improve their working conditions. This paper proposes a vision on exploring this issue and presents in conjunction a factor that has been claimed multiple time to affect the effectiveness..."
+    },
+    {
+        "header": "\u00c9ducation et num\u00e9rique, D\u00e9fis et enjeux",
+        "type_1": "Book",
+        "date": "Dec 2020",
+        "download_url": "publication/346977820_Education_et_numerique_Defis_et_enjeux/download",
+        "abstract": null
+    },
+    {
+        "header": "Argument Mining Driven Analysis of Peer-Reviews",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/347125599_Argument_Mining_Driven_Analysis_of_Peer-Reviews/download",
+        "abstract": "Peer reviewing is a central process in modern research and essential for ensuring high quality and reliability of published work. At the same time, it is a time-consuming process and increasing interest in emerging fields often results in a high review workload, especially for senior researchers in this area. How to cope with this problem is an ope..."
+    },
+    {
+        "header": "Computational modeling of human reasoning processes for interpretable visual knowledge: a case study with radiographers",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346935091_Computational_modeling_of_human_reasoning_processes_for_interpretable_visual_knowledge_a_case_study_with_radiographers/download",
+        "abstract": "Visual reasoning is critical in many complex visual tasks in medicine such as radiology or pathology. It is challenging to explicitly explain reasoning processes due to the dynamic nature of real-time human cognition. A deeper understanding of such reasoning processes is necessary for improving diagnostic accuracy and computational tools. Most comp..."
+    },
+    {
+        "header": "BlocklyScript: Design and Pilot Evaluation of an RPG Platform Game for Cultivating Computational Thinking Skills to Young Students",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346939286_BlocklyScript_Design_and_Pilot_Evaluation_of_an_RPG_Platform_Game_for_Cultivating_Computational_Thinking_Skills_to_Young_Students/download",
+        "abstract": "At 21st century Computational Thinking (CT) is considered a fundamental skill that anyone should possess and develop from a young age. Serious games and more specifically educational games (EGs) are a promising means of introducing algorithmic thinking and programming concepts and engaging students through the process of learning. In this article,..."
+    },
+    {
+        "header": "Explaining Cognitive Computing Through the Information Systems Lens",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346929387_Explaining_Cognitive_Computing_Through_the_Information_Systems_Lens/download",
+        "abstract": "Cognitive computing (COC) aims to embed human cognition into computerized models. However, there is no scientific classification that delineates the nature of Cognitive Computing. Unlike the medical and computer science fields, Information Systems (IS) has conducted very little research on COC. Although the potential to make important research cont..."
+    },
+    {
+        "header": "State of the art on system architectures for data integration",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346756212_State_of_the_art_on_system_architectures_for_data_integration/download",
+        "abstract": "Data integration is a major challenge faced by organizations that have a large amount of data. In the literature, the problem of data integration is discussed in different areas of knowledge, from different perspectives.To have a comprehensive view of this research area, a systematic review of the literature on systems architectures for data integr..."
+    },
+    {
+        "header": "A Bibliometric Review of Literature in Library User Education Published at Scopus-Elsevier Database Indexed Journals from 1976-2019",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346785704_A_Bibliometric_Review_of_Literature_in_Library_User_Education_Published_at_Scopus-Elsevier_Database_Indexed_Journals_from_1976-2019/download",
+        "abstract": "Aim of this research is focuses on analysis of literature published in journals indexed in Scopus-Elsevier database and produced by library information professionals to facilitate library users in terms of effective use of the library. A total of 114 documents written by 252; 2.2% authors and 2.5 per annum in library user education covers six types..."
+    },
+    {
+        "header": "Using Interactive Web-Based Animations to Help Students to Find the Optimal Algorithms of River Crossing Puzzles",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346804468_Using_Interactive_Web-Based_Animations_to_Help_Students_to_Find_the_Optimal_Algorithms_of_River_Crossing_Puzzles/download",
+        "abstract": "To acquire algorithmic thinking is a long process that has a few steps. The most basic level of algorithmic thinking is when students recognize the algorithms and various problems that can be solved with algorithms. At the second level, students can execute the given algorithms. At the third level of algorithmic thinking, students can analyze the a..."
+    },
+    {
+        "header": "POSTER cbrc",
+        "type_1": "Poster",
+        "date": "Dec 2020",
+        "download_url": "publication/345940848_POSTER_cbrc/download",
+        "abstract": "Online - 2nd International Computational Biology Workshop of the Amirkabir University of Technology\n\nThe bioinformatics workshop is known as an advanced, specialized international educational-research activity, in which the latest scientific achievements are discussed.On 9th December 2020 , the second workshop of the ICoBi will be held virtually ov..."
+    },
+    {
+        "header": "GRAPH SIGNAL SAMPLING AND INTERPOLATION BASED ON CLUSTERS AND AVERAGES",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/346703106_GRAPH_SIGNAL_SAMPLING_AND_INTERPOLATION_BASED_ON_CLUSTERS_AND_AVERAGES/download",
+        "abstract": "We consider a disjoint cover (a partition) of a set of vertices of a combinatorial undirected weighted finite or infinite graph G by connected subgraphs (clusters) {S j } j\u2208J and select a function \u03c8 j on each of the clusters. For a given function (signal) f on G the set of its samples is a a set of inner products { f, \u03c8 j } j\u2208J (weighted average va..."
+    },
+    {
+        "header": "VYU\u017dIT\u00cd METOD EYE-TRACKINGU A BIOMETRICK\u00c9HO TESTOV\u00c1N\u00cd P\u0158I STUDIU KOGNITIVN\u00cd Z\u00c1T\u011a\u017dE V PROST\u0158ED\u00cd ARCGIS STORY MAP",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346718903_VYUZITI_METOD_EYE-TRACKINGU_A_BIOMETRICKEHO_TESTOVANI_PRI_STUDIU_KOGNITIVNI_ZATEZE_V_PROSTREDI_ARCGIS_STORY_MAP/download",
+        "abstract": "Abstrakt Sou\u010dasn\u00fd trend ve \u0161kolstv\u00ed spole\u010dn\u011b s pandemi\u00ed COVID-19 potvrdil nutnost zav\u00e1d\u011bt informa\u010dn\u00ed technologie i do jin\u00fdch p\u0159edm\u011bt\u016f ne\u017eli informatiky. Ve chv\u00edli, kdy dojde k zav\u0159en\u00ed cel\u00e9 \u0161koly a klasick\u00e1 v\u00fduka bude nahrazena d\u00e1lkovou (online) v\u00fdukou, bude nutn\u00e9 pou\u017e\u00edvat webov\u00fdch aplikac\u00ed \u010di je p\u0159\u00edmo vytv\u00e1\u0159et. Lze tedy p\u0159edpokl\u00e1dat, \u017ee aplikac\u00ed pr..."
+    },
+    {
+        "header": "Preliminary Comparison of K-12 Computing Education in China and the United States",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/347889980_Preliminary_Comparison_of_K-12_Computing_Education_in_China_and_the_United_States/download",
+        "abstract": "The thesis starts with the background of computing education in today's K-12 education development, and then compares Chinese and American computer science K-12 education based on frameworks and curriculum standards. The authors compared the framework design of computer science K-12 education in two countries from the perspectives of concept defini..."
+    },
+    {
+        "header": "Using phidelta diagrams to discover relevant patterns in multilayer perceptrons",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346713536_Using_phidelta_diagrams_to_discover_relevant_patterns_in_multilayer_perceptrons/download",
+        "abstract": "Understanding the inner behaviour of multilayer perceptrons during and after training is a goal of paramount importance for many researchers worldwide. This article experimentally shows that relevant patterns emerge upon training, which are typically related to the underlying problem difficulty. The occurrence of these patterns is highlighted by me..."
+    },
+    {
+        "header": "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0442\u0435\u043e\u0440\u0438\u0438 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f (Social systems from the geometric theory of behavior point of view)",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346677449_Socialnye_sistemy_s_tocki_zrenia_geometriceskoj_teorii_povedenia_Social_systems_from_the_geometric_theory_of_behavior_point_of_view/download",
+        "abstract": "\u0427\u0435\u043c \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u043e\u043b\u0435\u0437\u043d\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u0441\u043e\u0446\u0438\u043e\u043b\u043e\u0433\u0438\u0438, \u043a\u0440\u043e\u043c\u0435 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445? \u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435 \u0434\u043b\u044f \u0441\u043e\u0446\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0443\u0440\u0441\u0430 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u044f\u0437\u044b\u043a, \u0440\u043e\u0434\u0438\u0432\u0448\u0438\u0439\u0441\u044f \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u043b\u043e\u0436\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u043e\u0439 \u0442\u0435\u043e\u0440\u0438\u0438, \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u043c\u0438 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438. \u0414\u043e\u0441\u0442\u043e\u0438\u043d\u0441\u0442\u0432\u0430\u043c\u0438 \u044d\u0442\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0434\u043d\u043e\u0437\u043d\u0430\u0447\u043d\u043e\u0441\u0442\u044c \u0438..."
+    },
+    {
+        "header": "Propagating AI Knowledge Across University Disciplines-The Design of A Multidisciplinary AI Study Module",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346715823_Propagating_AI_Knowledge_Across_University_Disciplines-The_Design_of_A_Multidisciplinary_AI_Study_Module/download",
+        "abstract": "The ongoing AI revolution has disrupted several industry sectors and will keep having an unprecedented impact on all areas of society. This is predicted to force a major proportion of the workforce to re-educate itself during the next few decades. Consequently, this has led to a growing demand for multidisciplinary AI education also for students ou..."
+    },
+    {
+        "header": "Unlabelled ordered DAGs and labelled DAGs: constructive enumeration and uniform random sampling",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/346628695_Unlabelled_ordered_DAGs_and_labelled_DAGs_constructive_enumeration_and_uniform_random_sampling/download",
+        "abstract": "Directed Acyclic Graphs (DAGs) are directed graphs in which there is no path from a vertex to itself. DAGs are an omnipresent data structure in computer science and the problem of counting the DAGs of given number of vertices has been solved in the 70's by Robinson. In many applications one needs to construct connected DAGs and to control their num..."
+    },
+    {
+        "header": "Fonctionnement et R\u00e9glages DES PROTECTIONS DES LIGNES HTB ET TRANSFORMATEURS HTB-HTA Application au poste 90/33kV KMS au S\u00e9n\u00e9gal",
+        "type_1": "Technical Report",
+        "date": "Dec 2020",
+        "download_url": "publication/346630309_Fonctionnement_et_Reglages_DES_PROTECTIONS_DES_LIGNES_HTB_ET_TRANSFORMATEURS_HTB-HTA_Application_au_poste_9033kV_KMS_au_Senegal/download",
+        "abstract": "Le pr\u00e9sent rapport d\u00e9crit le travail r\u00e9alis\u00e9 en guise du projet de fin des \u00e9tudes\nde quatre mois que j\u2019ai effectu\u00e9 au sein de Vinci-Energies dans le cadre de la\nformation d\u2019ing\u00e9nieur de l\u2019Ecole Nationale Sup\u00e9rieure de l\u2019Electricit\u00e9 et de la\nM\u00e9canique (ENSEM).\nCe projet de stage traite la r\u00e9alisation d\u2019un guide de r\u00e9glage des protections.\nCe projet..."
+    },
+    {
+        "header": "Asymptotic Dimension of Minor-Closed Families and Assouad-Nagata Dimension of Surfaces",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/346668856_Asymptotic_Dimension_of_Minor-Closed_Families_and_Assouad-Nagata_Dimension_of_Surfaces/download",
+        "abstract": "The asymptotic dimension is an invariant of metric spaces introduced by Gromov in the context of geometric group theory. In this paper, we study the asymptotic dimension of metric spaces generated by graphs and their shortest path metric and show their applications to some continuous spaces. The asymptotic dimension of such graph metrics can be see..."
+    },
+    {
+        "header": "On proof theory in computer science",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/346765912_On_proof_theory_in_computer_science/download",
+        "abstract": "The subject logic in computer science should entail proof theoretic applications. So the question arises whether open problems in computational complexity can be solved by advanced proof theoretic techniques. In particular, consider the complexity classes NP, coNP and PSPACE. It is well-known that NP and coNP are contained in PSPACE, but till recen..."
+    },
+    {
+        "header": "Systematic Roadmap to Address the Research Issues and Challenges in Advanced Intelligent Video Surveillance with Deep Learning Techniques",
+        "type_1": "Presentation",
+        "date": "Dec 2020",
+        "download_url": "publication/346680759_Systematic_Roadmap_to_Address_the_Research_Issues_and_Challenges_in_Advanced_Intelligent_Video_Surveillance_with_Deep_Learning_Techniques/download",
+        "abstract": "Presented \"Systematic Roadmap to Address the Research Issues and Challenges in Advanced Intelligent Video Surveillance with Deep Learning Techniques\" on 3rd Dec 2020, Thursday 10.30 AM to 12 PM Online in AICTE Sponsored Faculty Development Programme organized by the Department of Computer Science and Engineering, Muthayammal Engineering College(Aut..."
+    },
+    {
+        "header": "An image encryption scheme based on public key cryptosystem and quantum logistic map",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346627819_An_image_encryption_scheme_based_on_public_key_cryptosystem_and_quantum_logistic_map/download",
+        "abstract": "Most of existing image encryption schemes are proposed in the spatial domain which easily destroys the correlation between pixels. This paper proposes an image encryption scheme by employing discrete cosine transform (DCT), quantum logistic map and substitution-permutation network (SPN). The DCT is used to transform the images in the frequency doma..."
+    },
+    {
+        "header": "Novice Cybersecurity Students Encounter TracerFIRE: An Experience Report",
+        "type_1": "Conference Paper",
+        "date": "Dec 2020",
+        "download_url": "publication/346604945_Novice_Cybersecurity_Students_Encounter_TracerFIRE_An_Experience_Report/download",
+        "abstract": "Integrating hands-on learning into a competitive cybersecurity exercise is known to be a popular and potentially powerful way to motivate experiential learning in computer and network security (Childers, et al., 2010; Fanelli & O'Connor, 2010; Vigna, et al., 2014; Siami Namin, et al., 2016). In addition to having taken relevant computer science (CS..."
+    },
+    {
+        "header": "Tight Chang's-lemma-type bounds for Boolean functions",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/346668991_Tight_Chang's-lemma-type_bounds_for_Boolean_functions/download",
+        "abstract": "Chang's lemma (Duke Mathematical Journal, 2002) is a classical result with applications across several areas in mathematics and computer science. For a Boolean function $f$ that takes values in {-1,1} let $r(f)$ denote its Fourier rank. For each positive threshold $t$, Chang's lemma provides a lower bound on $wt(f):=\\Pr[f(x)=-1]$ in terms of the di..."
+    },
+    {
+        "header": "TBFMM: A C++ generic and parallel fast multipole method library",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346980118_TBFMM_A_C_generic_and_parallel_fast_multipole_method_library/download",
+        "abstract": null
+    },
+    {
+        "header": "Recent Methods from Computer Vision for Perception in Highly Automated Driving (Keynote at ACM Computer Science in Cars Symposium 2020)",
+        "type_1": "Presentation",
+        "date": "Dec 2020",
+        "download_url": "publication/346594461_Recent_Methods_from_Computer_Vision_for_Perception_in_Highly_Automated_Driving_Keynote_at_ACM_Computer_Science_in_Cars_Symposium_2020/download",
+        "abstract": "Prof. Dr.-Ing. Tim Fingscheidt holds the Chair of Signal Processing and Machine Learning at Technische Universit\u00e4t Braunschweig. He heads the TU Braunschweig Deep Learning Lab (TUBS.dll), having research interest in machine learning for Speech, Vision, and Predictive Maintenance. In his keynote, he will present selected results from the field of Co..."
+    },
+    {
+        "header": "Evaluation of an augmented reality platform for austere surgical telementoring: a randomized controlled crossover study in cricothyroidotomies",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/341547941_Evaluation_of_an_augmented_reality_platform_for_austere_surgical_telementoring_a_randomized_controlled_crossover_study_in_cricothyroidotomies/download",
+        "abstract": "Telementoring platforms can help transfer surgical expertise remotely. However, most telementoring platforms are not designed to assist in austere, pre-hospital settings. This paper evaluates the system for telementoring with augmented reality (STAR), a portable and self-contained telementoring platform based on an augmented reality head-mounted di..."
+    },
+    {
+        "header": "Decoding the underlying cognitive processes and related support strategies utilised by expert instructors during source code comprehension",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/344282329_Decoding_the_underlying_cognitive_processes_and_related_support_strategies_utilised_by_expert_instructors_during_source_code_comprehension/download",
+        "abstract": "Many novice programmers fail to comprehend source code and its related concepts in the same way that their instructors do. As emphasised in the Decoding the Disciplines (DtDs) framework, each discipline (including Computer Science) has its own unique set of mental operations. However, instructors often take certain important mental operations for g..."
+    },
+    {
+        "header": "Multi-granularity hybrid parallel network simplex algorithm for minimum-cost flow problems",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/339704344_Multi-granularity_hybrid_parallel_network_simplex_algorithm_for_minimum-cost_flow_problems/download",
+        "abstract": "Minimum-cost flow problems widely exist in graph theory, computer science, information science, and transportation science. The network simplex algorithm is a fast and frequently used method for solving minimum-cost flow problems. However, the conventional sequential algorithms cannot satisfy the requirement of high-computational efficiency for lar..."
+    },
+    {
+        "header": "Coordinating Transitions: Exploring the STEM Institution from the Standpoint of Freshman and Transfer Undergraduate Women",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/341891423_Coordinating_Transitions_Exploring_the_STEM_Institution_from_the_Standpoint_of_Freshman_and_Transfer_Undergraduate_Women/download",
+        "abstract": "Through the lens of feminist standpoint theory, we explore if and how the processes, procedures, and discourses that coordinate the everyday work of transitioning from K12 or a community college created challenges for women students in computer science and physics. Data collection and analysis focused on describing the day-to-day work of transition..."
+    },
+    {
+        "header": "\"Working in the dark?\" investigation of physiological and psychological indices and prediction of back-lit screen users' reactions to light dimming",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/344781026_Working_in_the_dark_investigation_of_physiological_and_psychological_indices_and_prediction_of_back-lit_screen_users'_reactions_to_light_dimming/download",
+        "abstract": "The advent of back-lit screens in contemporary offices has profoundly impacted the field of visual comfort. Screen users typically fail to adapt to changing environments and often require an individual light quality. To this end, the new approach of human-building interaction in computer science would consider the context of occupants interacting w..."
+    },
+    {
+        "header": "Do you trade with your friends or become friends with your trading partners? A case study in the $\\breve {G}1$ cryptocurrency",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/342060443_Do_you_trade_with_your_friends_or_become_friends_with_your_trading_partners_A_case_study_in_the_breve_G1_cryptocurrency/download",
+        "abstract": "Abstract We study the interplay between social ties and financial transactions made through a recent cryptocurrency called \u011e 1 $\\breve {G}1$ . It has the particularity of combining the usual transaction record with a reliable network of identified users. This gives the opportunity to observe exactly who sent money to whom over a social network. Thi..."
+    },
+    {
+        "header": "Concept whitening for interpretable image recognition",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346711410_Concept_whitening_for_interpretable_image_recognition/download",
+        "abstract": "What does a neural network encode about a concept as we traverse through the layers? Interpretability in machine learning is undoubtedly important, but the calculations of neural networks are very challenging to understand. Attempts to see inside their hidden layers can be misleading, unusable or rely on the latent space to possess properties that..."
+    },
+    {
+        "header": "Imitation Game: Threshold or Watershed?",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/345606288_Imitation_Game_Threshold_or_Watershed/download",
+        "abstract": "Showing remarkable insight into the relationship between language and thought, Alan Turing in 1950 proposed the Imitation Game as a proxy for the question \u201cCan machines think?\u201d and its meaning and practicality have been debated hotly ever since. The Imitation Game has come under criticism within the Computer Science and Artificial Intelligence comm..."
+    },
+    {
+        "header": "Phase transitions for detecting latent geometry in random graphs",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346097866_Phase_transitions_for_detecting_latent_geometry_in_random_graphs/download",
+        "abstract": "Random graphs with latent geometric structure are popular models of social and biological networks, with applications ranging from network user profiling to circuit design. These graphs are also of purely theoretical interest within computer science, probability and statistics. A fundamental initial question regarding these models is: when are thes..."
+    },
+    {
+        "header": "So, what exactly is a qualitative calculus?",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/344382451_So_what_exactly_is_a_qualitative_calculus/download",
+        "abstract": "The paradigm of algebraic constraint-based reasoning, embodied in the notion of a qualitative calculus, is studied within two alternative frameworks. One framework defines a qualitative calculus as \u201ca non-associative relation algebra (NA) with a qualitative representation\u201d, the other as \u201can algebra generated by jointly exhaustive and pairwise disjo..."
+    },
+    {
+        "header": "An Experimental Study Towards Investigating the Effect of Working Memory Capacity on Complex Diagram Understandability",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346512399_An_Experimental_Study_Towards_Investigating_the_Effect_of_Working_Memory_Capacity_on_Complex_Diagram_Understandability/download",
+        "abstract": "This study investigates whether working memory (WM) capacity affects the understandability of complex diagrams and if so, whether WM training has a positive effect on their comprehensibility. Two experiments were conducted with computer science students. In the first experiment, we collected eyetracking data while participants performed comprehensi..."
+    },
+    {
+        "header": "Stabilization and Tracking Control Algorithms for VTOL Aircraft: Theoretical and Practical Overview",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/344299761_Stabilization_and_Tracking_Control_Algorithms_for_VTOL_Aircraft_Theoretical_and_Practical_Overview/download",
+        "abstract": "Control theory applied to multirotor aerial systems (MAS) has gained attention with the recent increase on the power computation for embedded systems. These systems are now able to perform the calculations needed for a variety of control techniques, with lower cost of sensors and actuators. These types of control algorithms are applied to the posit..."
+    },
+    {
+        "header": "Search and rescue with airborne optical sectioning",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346166391_Search_and_rescue_with_airborne_optical_sectioning/download",
+        "abstract": "In the future, rescuing lost, ill or injured persons will increasingly be carried out by autonomous drones. However, discovering humans in densely forested terrain is challenging because of occlusion, and robust detection mechanisms are required. We show that automated person detection under occlusion conditions can be notably improved by combining..."
+    },
+    {
+        "header": "Conceptual Software Engineering Applied to Movie Scripts and Stories",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/347557727_Conceptual_Software_Engineering_Applied_to_Movie_Scripts_and_Stories/download",
+        "abstract": null
+    },
+    {
+        "header": "Range searching in multidimensional databases using navigation metadata",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/343020342_Range_searching_in_multidimensional_databases_using_navigation_metadata/download",
+        "abstract": "This work presents a new range searching algorithm for multidimensional databases. The proposed methodology is based on the idea of generating a navigation metadata structure, complementary to the database, that eases the navigation between the elements of the database. This metadata structure can be adapted to different problems and it is generate..."
+    },
+    {
+        "header": "A BBR-based congestion control for delay-sensitive real-time applications",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/342729841_A_BBR-based_congestion_control_for_delay-sensitive_real-time_applications/download",
+        "abstract": "The current User Datagram Protocol (UDP) causes unfairness and bufferbloats to delay sensitive applications due to the uncontrolled congestion and monopolization of available bandwidth.This causes call drops and frequent communication/connection loss in delay sensitive applications such as VoIP. We present a Responsive Control Protocol using Bottle..."
+    },
+    {
+        "header": "A Case for a New IT Ecosystem: On-The-Fly Computing",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/337841740_A_Case_for_a_New_IT_Ecosystem_On-The-Fly_Computing/download",
+        "abstract": "The complexity of development and deployment in today\u2019s IT world is enormous. Despite the existence of so many pre-fabricated components, frameworks, cloud providers, etc., building IT systems still remains a major challenge and most likely overtaxes even a single ambitious developer. This results in spreading such development and deployment tasks..."
+    },
+    {
+        "header": "Evolutionary training and abstraction yields algorithmic generalization of neural computers",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/345973095_Evolutionary_training_and_abstraction_yields_algorithmic_generalization_of_neural_computers/download",
+        "abstract": "A key feature of intelligent behaviour is the ability to learn abstract strategies that scale and transfer to unfamiliar problems. An abstract strategy solves every sample from a problem class, no matter its representation or complexity\u2014similar to algorithms in computer science. Neural networks are powerful models for processing sensory data, disco..."
+    },
+    {
+        "header": "Development of Guideway for the Electromagnetic Vehicles. [Journal of Research in Computer Science and Engineering, ISSN: 2457-0818]",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346523011_Development_of_Guideway_for_the_Electromagnetic_Vehicles_Journal_of_Research_in_Computer_Science_and_Engineering_ISSN_2457-0818/download",
+        "abstract": "The magnetic vehicle will move objects at precise distances while not in contact between surfaces and while not friction that reduces vibration. These forms of vehicles will be used in harsh environments, wherever ancient vehicles may not survive. This technology has two active elements; one is that the vehicle or moving the body and another is the..."
+    },
+    {
+        "header": "Biological information",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346534563_Biological_information/download",
+        "abstract": "In computer science, we can theoretically neatly separate transmission and processing of information, hardware and software, and programs and their inputs. This is much more intricate in biology. Nevertheless, I argue that Shannon\u2019s concept of information is useful in biology, although its application is not as straightforward as many people think...."
+    },
+    {
+        "header": "#Lecture I - Selected Topics in CoSc",
+        "type_1": "Presentation",
+        "date": "Dec 2020",
+        "download_url": "publication/346528081_Lecture_I_-_Selected_Topics_in_CoSc/download",
+        "abstract": "#The chapter deals with the introduction of computer science."
+    },
+    {
+        "header": "CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/342150258_CIDO_a_community-based_ontology_for_coronavirus_disease_knowledge_and_data_integration_sharing_and_analysis/download",
+        "abstract": "The Coronavirus Infectious Disease Ontology (CIDO) is a community-based ontology that supports coronavirus disease knowledge and data standardization, integration, sharing, and analysis."
+    },
+    {
+        "header": "Design review of MOOCs: application of e-learning design principles",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/337427277_Design_review_of_MOOCs_application_of_e-learning_design_principles/download",
+        "abstract": "The purpose of this study is to explore the pedagogical design of massive open online courses (MOOCs) using evidence-based e-learning principles. MOOCs have become an important part of discourse in higher education. However, there has been shared concern on the quality of MOOCs as learning systems for engaging learners as well as fulfilling their n..."
+    },
+    {
+        "header": "Fault Tolerant Approximate BFS Structures with Additive Stretch",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/343265389_Fault_Tolerant_Approximate_BFS_Structures_with_Additive_Stretch/download",
+        "abstract": "This paper addresses the problem of designing a \\(\\beta \\)-additive fault-tolerant approximate BFS (or FT-ABFS for short) structure, namely, a subgraph H of the network G such that subsequent to the failure of a single edge e, the surviving part of H still contains an approximate BFS spanning tree for (the surviving part of) G, whose distances sati..."
+    },
+    {
+        "header": "Network of evolvable neural units can learn synaptic learning rules and spiking dynamics",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346934930_Network_of_evolvable_neural_units_can_learn_synaptic_learning_rules_and_spiking_dynamics/download",
+        "abstract": "Although deep neural networks have seen great success in recent years through various changes in overall architectures and optimization strategies, their fundamental underlying design remains largely unchanged. Computational neuroscience may provide more biologically realistic models of neural processing mechanisms, but they are still high-level ab..."
+    },
+    {
+        "header": "Further strengthening of upper bounds for perfect $k$-Hashing",
+        "type_1": "Preprint",
+        "date": "Dec 2020",
+        "download_url": "publication/346556798_Further_strengthening_of_upper_bounds_for_perfect_k-Hashing/download",
+        "abstract": "For a fixed integer $k$, a problem of relevant interest in computer science and combinatorics is that of determining the asymptotic growth, with $n$, of the largest set for which a perfect $k$-hash family of $n$ functions exists. Equivalently, determining the asymptotic growth of a largest subset of $\\{1,2,\\ldots,k\\}^n$ such that for any $k$ distin..."
+    },
+    {
+        "header": "Requirements engineering for sustainability: an awareness framework for designing software systems for a better tomorrow",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/343661803_Requirements_engineering_for_sustainability_an_awareness_framework_for_designing_software_systems_for_a_better_tomorrow/download",
+        "abstract": "Integrating novel software systems in our society, economy and environment can have far-reaching effects. As a result, software systems should be designed in such a way as to maintain or improve the sustainability of their intended socio-technical systems. However, a paradigm shift is required to raise awareness of software professionals on the pot..."
+    },
+    {
+        "header": "CR Rao Article(short)-AmStatNews Sept 2020",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/346535654_CR_Rao_Articleshort-AmStatNews_Sept_2020/download",
+        "abstract": "We review the foundational contributions of Professor C.R. Rao to the science of statistics, in celebration of his 100th birthday. Rao, a living legend, has had profound and continuing influence on statistical theory and practice since 1941. A brief summary of his work in each of five areas of statistics is presented: (1) design of experiments; (2)..."
+    },
+    {
+        "header": "Data-driven analysis using multiple self-report questionnaires to identify college students at high risk of depressive disorder",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/341321270_Data-driven_analysis_using_multiple_self-report_questionnaires_to_identify_college_students_at_high_risk_of_depressive_disorder/download",
+        "abstract": "Depression diagnosis is one of the most important issues in psychiatry. Depression is a complicated mental illness that varies in symptoms and requires patient cooperation. In the present study, we demonstrated a novel data-driven attempt to diagnose depressive disorder based on clinical questionnaires. It includes deep learning, multi-modal repres..."
+    },
+    {
+        "header": "The Asymptotics of the Clustering Transition for Random Constraint Satisfaction Problems",
+        "type_1": "Article",
+        "date": "Dec 2020",
+        "download_url": "publication/345890832_The_Asymptotics_of_the_Clustering_Transition_for_Random_Constraint_Satisfaction_Problems/download",
+        "abstract": "Random constraint satisfaction problems exhibit several phase transitions when their density of constraints is varied. One of these threshold phenomena, known as the clustering or dynamic transition, corresponds to a transition for an information theoretic problem called tree reconstruction. In this article we study this threshold for two CSPs, nam..."
+    }
+]
