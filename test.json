@@ -1,0 +1,902 @@
+[
+    {
+        "title": "Investigation on biomedical waste management of hospitals using cohort intelligence algorithm",
+        "date": "December 2021",
+        "doi": "10.1016/j.socl.2020.100008",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (13)",
+        "abstract": "With the innovative development of advanced technology in the field of medical, there is an enlargement in the generation of other problems such as management of biomedical waste. Hazardous waste generated from hospitals is required to be managed within time and it can be done effectively using some computer science technology. In the proposed methodology, Biomedical Waste (BMW) problem is solved with the consideration of route optimization. Route optimization is important in BMW management because while transporting the BMW from hospital to depot (disposal site) there are many types of risks associated with that route like traffic, vehicle failure, road accident etc. To avoid the dangerous effects of BMW on humans and environment, it is necessary to optimize the distance. It can help in promoting healthy and risk free life. This paper addresses the problem of finding the shortest path using Cohort Intelligence algorithm for BMW management with the consideration of human risk."
+    },
+    {
+        "title": "POSTER cbrc",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "Online - 2nd International Computational Biology Workshop of the Amirkabir University of Technology\n\nThe bioinformatics workshop is known as an advanced, specialized international educational-research activity, in which the latest scientific achievements are discussed.On 9th December 2020 , the second workshop of the ICoBi will be held virtually over Adobe Connect for 3 days. Due to the COVID-19 crisis, CBRC decided to switch to online methods. It is organized by the Department of Mathematics and Computer Science at AmirKabir University in collaboration with the Computational Biology Research Center (CBRC)."
+    },
+    {
+        "title": "Using Interactive Web-Based Animations to Help Students to Find the Optimal Algorithms of River Crossing Puzzles",
+        "date": "December 2020",
+        "doi": "10.12753/2066-026X-20-010",
+        "conferance": "Conference: eLearning and Software for Education",
+        "citations_count": "Reference Text and Citations ",
+        "reference_count": "References (2)",
+        "abstract": "To acquire algorithmic thinking is a long process that has a few steps. The most basic level of algorithmic thinking is when students recognize the algorithms and various problems that can be solved with algorithms. At the second level, students can execute the given algorithms. At the third level of algorithmic thinking, students can analyze the algorithms, they recognize which steps are executed in sequences, conditions or loops. At the fourth level, students can create their algorithms. The last three levels of algorithmic thinking are: the implementation of the algorithms in a programming language, modifying and improving the algorithms, and creating complex algorithms. In preliminary research related to algorithmic thinking, we investigated how first-year undergraduate computer science students of J. Selye University can solve problems associated with the second, third and fourth level of algorithmic thinking. We chose these levels because these levels do not require to know any programming language. The tasks that students had to solve were for example: what will be the route of a robot when it executes the given instructions, how many times we need to cross a river to carry everyone to another river-bank. To solve these types of tasks requires only good algorithmic thinking. The results showed that students reached 81.4% average score on tasks related to the execution of given algorithms, 72.3% average score on tasks where they needed to analyze algorithms, and 66.2% average score on tasks where students needed to create algorithms. The latter type of tasks were mostly various river-crossing problems. Even though, that students reached a 66.2% average score on these tasks, if we had accepted only solutions with the optimal algorithms (minimal number of river crossing), they would have reached only a 21.3% average score, which is very low. To help students find the optimal algorithms of river crossing puzzles, we developed several interactive web-based animations. In the last part of this paper, we describe these animations, we summarize how they were created and how they can be used in education. Finally, we conclude and briefly mention our plans related to our future research."
+    },
+    {
+        "title": "State of the art on system architectures for data integration",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: Rio Oil & Gas Expo and Conference 2020",
+        "citations_count": null,
+        "reference_count": "References (42)",
+        "abstract": "Data integration is a major challenge faced by organizations that have a large amount of data. In the literature, the problem of data integration is discussed in different areas of knowledge, from different perspectives.To have a comprehensive view of this research area, a systematic review of the literature on systems architectures for data integration was carried out in the last five years. Based on the recommendations of the PRISMA Declaration, the focus of the review was to seek architectures that adhere to the needs of data integration in the Oil and Gas (O&G) sector. In the searches, only works related to the areas of Computer Engineering, Computer Science and Information Systems were filtered. Among 272 works found in six large databases, 30 were selected, based on predefined criteria. After the reading and analysis process, two works applied in the O&G industry were identified, which used the OBDA approach. It was concluded that the approach most cited by the authors to perform data integration is based on ontology and that most of the presented system architectures are not yet capable of handling large volumes of data."
+    },
+    {
+        "title": "\u00c9ducation et num\u00e9rique, D\u00e9fis et enjeux",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (16)",
+        "abstract": null
+    },
+    {
+        "title": "Build your Own [Virtual] Microprocessor (CDT-48)",
+        "date": "December 2020",
+        "doi": "10.13140/RG.2.2.17794.50887/3",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (1)",
+        "abstract": "Though mostly unnoticed, microprocessors are everywhere, being responsible for operation of a wide range of critically important systems. Learning microprocessor concepts can therefore contribute to better understanding computer science and architecture, as well as providing basis for probing further into assembly, operating systems, microcontroller-based machines, genetic programming, distributed, multicore and GPU systems. In this work, we provide a brief introduction to sequential machines (von Neumann architecture) and how simple related microprocessor can be modeled and interpreted by using a very short and simple piece of code, which is then used to illustrate some assembly programs including adding two values, block transfer, and input/output."
+    },
+    {
+        "title": "Toward Understanding the Conditions that Promote Higher Attention in Software Developments -A First Step on Music and Standups",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: 46th Euromicro Conference on Software Engineering and Advanced Applications",
+        "citations_count": null,
+        "reference_count": "References (53)",
+        "abstract": "Nowadays, Computer Science tightly entered all spheres of human activity. To improve quality and speed of development process, it is important to help programmers improve their working conditions. This paper proposes a vision on exploring this issue and presents in conjunction a factor that has been claimed multiple time to affect the effectiveness of software production, concentration and attention of software developers. We choose to focus on developers brain activity and features that can be extracted from it. CCS CONCEPTS \u2022 Software and its engineering \u2192 Collaboration in software development."
+    },
+    {
+        "title": "New Teaching Methods by Using Microcontrollers in Teaching Programming",
+        "date": "December 2020",
+        "doi": "10.12753/2066-026X-20-082",
+        "conferance": "Conference: eLearning and Software for Education",
+        "citations_count": "Reference Text and Citations ",
+        "reference_count": "References (8)",
+        "abstract": "Everyone knows that IT and IT education are important today. Within that, programming has a high priority. From the point of view of education, it does not matter what method we teach. In the educational process, it is very important to attract students' attention and interest in programming. Programming methodology is one of the oldest areas of computer science education, so several methods are used to teach it today. Some of these can be used effectively in primary and secondary education, while others can be used in higher education. Important teaching methods have now emerged in certain areas of programming education. Most teachers do not use a single method, but a mixture of methods in which one of them dominates. Nowadays almost everything is controlled by electronics. We see various electronics gadgets almost everywhere around us. More and more microcontrollers are being used. In any school, it would be good to teach IT to mean more than basic computer management. Information technology has a lot of possibilities and it is very easy to do amazing things with it! Technology, electronics, and information technology are increasingly part of our world. By programming microcontrollers, we can make the teaching of programming more interesting. With the help of lights and sounds, students' attention can be better captured. This can be used to make programming learning interesting. Nowadays, a lot of primary and secondary schools are using this method and students are visibly motivated and more and more students are choosing electrotechnical and IT in their further studies. In this article, we introduce the use of this method."
+    },
+    {
+        "title": "Argument Mining Driven Analysis of Peer-Reviews",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": "dinal Dataset of Peer Reviews and Citations.",
+        "reference_count": "References (37)",
+        "abstract": "Peer reviewing is a central process in modern research and essential for ensuring high quality and reliability of published work. At the same time, it is a time-consuming process and increasing interest in emerging fields often results in a high review workload, especially for senior researchers in this area. How to cope with this problem is an open question and it is vividly discussed across all major conferences. In this work, we propose an Argument Mining based approach for the assistance of editors, meta-reviewers, and reviewers. We demonstrate that the decision process in the field of scientific publications is driven by arguments and automatic argument identification is helpful in various use-cases. One of our findings is that arguments used in the peer-review process differ from arguments in other domains making the transfer of pre-trained models difficult. Therefore, we provide the community with a new peer-review dataset from different computer science conferences with annotated arguments. In our extensive empirical evaluation, we show that Argument Mining can be used to efficiently extract the most relevant parts from reviews, which are paramount for the publication decision. The process remains interpretable since the extracted arguments can be highlighted in a review without detaching them from their context."
+    },
+    {
+        "title": "BlocklyScript: Design and Pilot Evaluation of an RPG Platform Game for Cultivating Computational Thinking Skills to Young Students",
+        "date": "December 2020",
+        "doi": "10.15388/infedu.2020.28",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (31)",
+        "abstract": "At 21st century Computational Thinking (CT) is considered a fundamental skill that anyone should possess and develop from a young age. Serious games and more specifically educational games (EGs) are a promising means of introducing algorithmic thinking and programming concepts and engaging students through the process of learning. In this article, a new EG called BlocklyScript is presented. BlocklyScript aims to help students develop their CT by learning basic programming concepts, designing algorithms and correcting mistakes. During the designing phase different EGs were taken under consideration and an EG design framework was followed in order to provide a better user experience. The game was evaluated by 10 experienced computer science educators of primary and secondary schools. The positive results of this pilot evaluation show that BlocklyScript is expected to help students understand the basic concepts of CT. However, the game should be evaluated by more teachers and students in order to provide future researchers with safe results."
+    },
+    {
+        "title": "THE EFFECTIVENESS OF TIMELINE INTERACTIVE WEB SERVICE IN DELIVERING LESSONS ON \u201cHISTORY OF PERSONAL COMPUTERS\u201d",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (9)",
+        "abstract": "The article provides information on the role of timeline interactive web service in the educational process, the advantages of visualization of computer science topics using timeline and their application in the educational process."
+    },
+    {
+        "title": "RIT Computer Science \u2022 Capstone Report \u2022 20201 Data Recovery with Erasure Coding for Batched Ciphertexts in Fully Homomorphic Encryption",
+        "date": "December 2020",
+        "doi": "10.13140/RG.2.2.36373.96487",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (17)",
+        "abstract": "Storage systems have grown to the point where failures are inevitable. Sometimes part of disk sectors become corrupted, other times entire disks become unavailable for use. Thus overtime, researchers came up with recovery codes that worked with plain text and recovered data upto one disk. Later, two disk recovery codes were also available such as XCode but the problem remained the same that none of these data recovery techniques worked with Homomorphic Encryption. The traditional techniques either worked with plain text or minimal form of encryption therefore we needed an algorithm that could recover the data efficiently and also provide end-to-end security with Fully Homomorphic Encryption. In this project, we present an algorithm, FHE-XCode that is fault tolerant upto two disks and works with Fully Homomorphic Encryption to provide end-to-end security in the cloud with increased data reliability. FHE-XCode has multiple applications and can be used in encrypted distributed data environments such as patient records, defense information, financial records of clients."
+    },
+    {
+        "title": "Computational modeling of human reasoning processes for interpretable visual knowledge: a case study with radiographers",
+        "date": "December 2020",
+        "doi": "10.1038/s41598-020-77550-9",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (46)",
+        "abstract": "Visual reasoning is critical in many complex visual tasks in medicine such as radiology or pathology. It is challenging to explicitly explain reasoning processes due to the dynamic nature of real-time human cognition. A deeper understanding of such reasoning processes is necessary for improving diagnostic accuracy and computational tools. Most computational analysis methods for visual attention utilize black-box algorithms which lack explainability and are therefore limited in understanding the visual reasoning processes. In this paper, we propose a computational method to quantify and dissect visual reasoning. The method characterizes spatial and temporal features and identifies common and contrast visual reasoning patterns to extract significant gaze activities. The visual reasoning patterns are explainable and can be compared among different groups to discover strategy differences. Experiments with radiographers of varied levels of expertise on 10 levels of visual tasks were conducted. Our empirical observations show that the method can capture the temporal and spatial features of human visual attention and distinguish expertise level. The extracted patterns are further examined and interpreted to showcase key differences between expertise levels in the visual reasoning processes. By revealing task-related reasoning processes, this method demonstrates potential for explaining human visual understanding."
+    },
+    {
+        "title": "Explaining Cognitive Computing Through the Information Systems Lens",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: Forty-First International Conference on Information Systems, ICIS",
+        "citations_count": null,
+        "reference_count": "References (41)",
+        "abstract": "Cognitive computing (COC) aims to embed human cognition into computerized models. However, there is no scientific classification that delineates the nature of Cognitive Computing. Unlike the medical and computer science fields, Information Systems (IS) has conducted very little research on COC. Although the potential to make important research contributions in this area is great, we argue that the lack of a cohesive interpretation of what constitutes COC has led to inferior COC research in IS. Therefore, we need first to clearly identify COC as a phenomenon to be able to identify and guide prospective research areas in IS. In this research, a phenomenological approach is adopted using thematic analysis of the published literature in COC research. Then, we discuss how IS may contribute to the development of design science artifacts under the COC umbrella. In addition, the paper raises important questions for future research by highlighting how IS researchers could make meaningful contributions to this emerging topic."
+    },
+    {
+        "title": "Volumen 16 (2020)",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (11)",
+        "abstract": "In the work, a system of didactic procedures is proposed to perfect the investigative skills of Computer Science students. It was prepared as part of a doctoral thesis, using the Functional Structural Systemic Method. It has been applied at the Universidad de Oriente (UO) for five courses, with results that have confirmed that the system provides sufficient evidence about its possibilities of improving the investigative skills of the aforementioned students, by contributing to the development of computational investigative thinking in them.\nEn el trabajo se propone un sistema de procedimientos did\u00e1cticos para perfeccionar las habilidades investigativas de los estudiantes de Ciencia de la Computaci\u00f3n. El mismo fue elaborado como parte de una tesis doctoral, empleando el M\u00e9todo Sist\u00e9mico Estructural Funcional. Ha sido aplicado en la Universidad de Oriente (UO) por cinco cursos, con resultados que han confirmado que el sistema brinda suficientes evidencias sobre sus posibilidades de perfeccionar las habilidades investigativas de los citados estudiantes, al contribuir al desarrollo de un pensamiento investigativo computacional en estos."
+    },
+    {
+        "title": "Middle School Teachers' Self-efficacy in Teaching Computer Science and Digital Literacy",
+        "date": "December 2020",
+        "doi": "10.1145/3408877.3439592",
+        "conferance": "Conference: SIGCSE ' 20",
+        "citations_count": null,
+        "reference_count": "References (3)",
+        "abstract": "This pilot study explores the impact of the CS Pathways professional development (PD) program on the teachers' self-efficacy in teaching a middle school computer science and digital literacy (CSDL) curriculum. The main goal of the study is to investigate the attributes that describe the teachers' self-efficacy after their first-year participation in the PD. A total of 19 middle school teachers from two states, NY and MA, attended the CS Pathway PD program and completed the end-of-year survey pertaining to self-efficacy in CSDL; more than half accepted the interview to help further understand their perceptions (n=10). Principal Component Analysis (PCA) is applied to study the attributes of the teachers' self-efficacy. The preliminary results capture teachers' self-efficacy patterns, which inform the PD and indicate its effectiveness and challenges."
+    },
+    {
+        "title": "Further strengthening of upper bounds for perfect $k$-Hashing",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (14)",
+        "abstract": "For a fixed integer $k$, a problem of relevant interest in computer science and combinatorics is that of determining the asymptotic growth, with $n$, of the largest set for which a perfect $k$-hash family of $n$ functions exists. Equivalently, determining the asymptotic growth of a largest subset of $\\{1,2,\\ldots,k\\}^n$ such that for any $k$ distinct elements in the set, there is a coordinate where they all differ. An important asymptotic upper bound for general $k$ was derived by Fredman and Koml\\'os in the '80s. Only very recently this was improved for general $k$ by Guruswami and Riazanov while stronger results for small values of $k$ were obtained by Arikan, by Dalai, Guruswami and Radhakrishnan and by Dalai and Costa. In this paper, we further improve the bounds for $5\\leq k \\leq 8$. The method we use, which depends on the reduction of an optimization problem to a finite number of cases, shows that further results might be obtained by refined arguments at the expense of higher complexity."
+    },
+    {
+        "title": "Evaluation of an augmented reality platform for austere surgical telementoring: a randomized controlled crossover study in cricothyroidotomies",
+        "date": "December 2020",
+        "doi": "10.1038/s41746-020-0284-9",
+        "conferance": null,
+        "citations_count": "Citations (1)",
+        "reference_count": "References (43)",
+        "abstract": "Telementoring platforms can help transfer surgical expertise remotely. However, most telementoring platforms are not designed to assist in austere, pre-hospital settings. This paper evaluates the system for telementoring with augmented reality (STAR), a portable and self-contained telementoring platform based on an augmented reality head-mounted display (ARHMD). The system is designed to assist in austere scenarios: a stabilized first-person view of the operating field is sent to a remote expert, who creates surgical instructions that a local first responder wearing the ARHMD can visualize as three-dimensional models projected onto the patient\u2019s body. Our hypothesis evaluated whether remote guidance with STAR could lead to performing a surgical procedure better, as opposed to remote audio-only guidance. Remote expert surgeons guided first responders through training cricothyroidotomies in a simulated austere scenario, and on-site surgeons evaluated the participants using standardized evaluation tools. The evaluation comprehended completion time and technique performance of specific cricothyroidotomy steps. The analyses were also performed considering the participants\u2019 years of experience as first responders, and their experience performing cricothyroidotomies. A linear mixed model analysis showed that using STAR was associated with higher procedural and non-procedural scores, and overall better performance. Additionally, a binary logistic regression analysis showed that using STAR was associated to safer and more successful executions of cricothyroidotomies. This work demonstrates that remote mentors can use STAR to provide first responders with guidance and surgical knowledge, and represents a first step towards the adoption of ARHMDs to convey clinical expertise remotely in austere scenarios."
+    },
+    {
+        "title": "Imitation Game: Threshold or Watershed?",
+        "date": "December 2020",
+        "doi": "10.1007/s11023-020-09544-5",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (48)",
+        "abstract": "Showing remarkable insight into the relationship between language and thought, Alan Turing in 1950 proposed the Imitation Game as a proxy for the question \u201cCan machines think?\u201d and its meaning and practicality have been debated hotly ever since. The Imitation Game has come under criticism within the Computer Science and Artificial Intelligence communities with leading scientists proposing alternatives, revisions, or even that the Game be abandoned entirely. Yet Turing\u2019s imagined conversational fragments between human and machine are rich with complex instances of inference of implied information, reasoning from generalizations, and meta-reasoning, challenges AI practitioners have wrestled with since at least 1980 and continue to study. We argue that the very fact the Imitation Game is so difficult may be the very reason it shouldn\u2019t be changed or abandoned. The semi-decidability of the game at this point hints at the possibility of a hard limit to the powers of technology."
+    },
+    {
+        "title": "Concept whitening for interpretable image recognition",
+        "date": "December 2020",
+        "doi": "10.1038/s42256-020-00265-z",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (51)",
+        "abstract": "What does a neural network encode about a concept as we traverse through the layers? Interpretability in machine learning is undoubtedly important, but the calculations of neural networks are very challenging to understand. Attempts to see inside their hidden layers can be misleading, unusable or rely on the latent space to possess properties that it may not have. Here, rather than attempting to analyse a neural network post hoc, we introduce a mechanism, called concept whitening (CW), to alter a given layer of the network to allow us to better understand the computation leading up to that layer. When a concept whitening module is added to a convolutional neural network, the latent space is whitened (that is, decorrelated and normalized) and the axes of the latent space are aligned with known concepts of interest. By experiment, we show that CW can provide us with a much clearer understanding of how the network gradually learns concepts over layers. CW is an alternative to a batch normalization layer in that it normalizes, and also decorrelates (whitens), the latent space. CW can be used in any layer of the network without hurting predictive performance."
+    },
+    {
+        "title": "Exploring the cloud of variable importance for the set of all good models",
+        "date": "December 2020",
+        "doi": "10.1038/s42256-020-00264-0",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (23)",
+        "abstract": "Variable importance is central to scientific studies, including the social sciences and causal inference, healthcare and other domains. However, current notions of variable importance are often tied to a specific predictive model. This is problematic: what if there were multiple well-performing predictive models, and a specific variable is important to some of them but not to others? In that case, we cannot tell from a single well-performing model if a variable is always important, sometimes important, never important or perhaps only important when another variable is not important. Ideally, we would like to explore variable importance for all approximately equally accurate predictive models within the same model class. In this way, we can understand the importance of a variable in the context of other variables, and for many good models. This work introduces the concept of a variable importance cloud, which maps every variable to its importance for every good predictive model. We show properties of the variable importance cloud and draw connections to other areas of statistics. We introduce variable importance diagrams as a projection of the variable importance cloud into two dimensions for visualization purposes. Experiments with criminal justice, marketing data and image classification tasks illustrate how variables can change dramatically in importance for approximately equally accurate predictive models."
+    },
+    {
+        "title": "Conceptual Software Engineering Applied to Movie Scripts and Stories",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (22)",
+        "abstract": null
+    },
+    {
+        "title": "Integrating Culture, Art, Geometry, and Coding to Enhance Computer Science Motivation Among Underrepresented Minoritized High School Students",
+        "date": "December 2020",
+        "doi": "10.1007/s11256-020-00586-8",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (69)",
+        "abstract": "In response to the underrepresentation of minoritized groups employed in the computer science (CS) field, this study aims to enhance underrepresented minoritized (URM) students\u2019 motivation for CS through an intervention informed by culturally relevant pedagogy theory in a required high school mathematics course. This intervention integrated culture, art, geometry, and coding through the virtual presentation of a Native American star quilt design using Python coding language and a video of a CS role model of Latino descent. Participants were 133 URM high school students across six 10th grade geometry classes. Three of the six geometry classes were randomly assigned to receive the intervention. Both quantitative and qualitative analysis were conducted to assess the effects of this intervention. Results indicated that the intervention had a positive effect on the development of URM students\u2019 computer science-oriented possible selves. Moreover, several qualitative themes emerged in how URM students connected with the CS role model."
+    },
+    {
+        "title": "Search and rescue with airborne optical sectioning",
+        "date": "December 2020",
+        "doi": "10.1038/s42256-020-00261-3",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (56)",
+        "abstract": "In the future, rescuing lost, ill or injured persons will increasingly be carried out by autonomous drones. However, discovering humans in densely forested terrain is challenging because of occlusion, and robust detection mechanisms are required. We show that automated person detection under occlusion conditions can be notably improved by combining multi-perspective images before classification. Here, we employ image integration by airborne optical sectioning (AOS)\u2014a synthetic aperture imaging technique that uses camera drones to capture unstructured thermal light fields\u2014to achieve this with a precision and recall of 96% and 93%, respectively. Finding lost or injured people in dense forests is not generally feasible with thermal recordings, but becomes practical with the use of AOS integral images. Our findings lay the foundation for effective future search-and-rescue technologies that can be applied in combination with autonomous or manned aircraft. They can also be beneficial for other fields that currently suffer from inaccurate classification of partially occluded people, animals or objects."
+    },
+    {
+        "title": "Requirements engineering for sustainability: an awareness framework for designing software systems for a better tomorrow",
+        "date": "December 2020",
+        "doi": "10.1007/s00766-020-00336-y",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (48)",
+        "abstract": "Integrating novel software systems in our society, economy and environment can have far-reaching effects. As a result, software systems should be designed in such a way as to maintain or improve the sustainability of their intended socio-technical systems. However, a paradigm shift is required to raise awareness of software professionals on the potential sustainability effects of software systems. While Requirements Engineering is considered the key for driving this change, requirements engineers lack the knowledge, experience and methodological support for acting as facilitators for a broader discussion on sustainability effects. This paper presents a question-based framework for raising awareness of the potential effects of software systems on sustainability, as the first step towards enabling the required paradigm shift. An evaluation study of the framework was conducted with four groups of computer science students. The results of the study indicate that the framework is applicable to different types of systems and helps to facilitate discussions about the potential effects that software systems could have on sustainability."
+    },
+    {
+        "title": "An Experimental Study Towards Investigating the Effect of Working Memory Capacity on Complex Diagram Understandability",
+        "date": "December 2020",
+        "doi": "10.18421/TEM94-09",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (30)",
+        "abstract": "This study investigates whether working memory (WM) capacity affects the understandability of complex diagrams and if so, whether WM training has a positive effect on their comprehensibility. Two experiments were conducted with computer science students. In the first experiment, we collected eyetracking data while participants performed comprehension tasks on an activity diagram. In the second experiment, the participants completed WM training, before and after their comprehension scores were measured. The results showed that working memory capacity can positively affect the understandability of complex diagrams, but it provided no conclusive evidence for the effectiveness of working memory training."
+    },
+    {
+        "title": "A Case for a New IT Ecosystem: On-The-Fly Computing",
+        "date": "December 2020",
+        "doi": "10.1007/s12599-019-00627-x",
+        "conferance": null,
+        "citations_count": "Citations (1)",
+        "reference_count": "References (88)",
+        "abstract": "The complexity of development and deployment in today\u2019s IT world is enormous. Despite the existence of so many pre-fabricated components, frameworks, cloud providers, etc., building IT systems still remains a major challenge and most likely overtaxes even a single ambitious developer. This results in spreading such development and deployment tasks over different team members with their own specialization. Nevertheless, not even highly competent IT personnel can easily succeed in developing and deploying a nontrivial application that comprises a multitude of different components running on different platforms (from frontend to backend). Current industry trends such as DevOps strive to keep development and deployment tasks tightly integrated. This, however, only partially addresses the underlying complexity of either of these two tasks. But would it not be desirable to simplify these tasks in the first place, enabling one person \u2013 maybe even a non-expert \u2013 to deal with all of them? Today\u2019s approaches to the development and deployment of complex IT applications are not up to this challenge. \u201cOn-The-Fly Computing\u201d offers an approach to tackle this challenge by providing complex IT services through largely automated configuration and execution. The configuration of such services is based on simple, flexibly combinable services that are provided by different software providers and traded in a market. This constitutes a highly relevant challenge for research in many branches of computer science, information systems, business administration, and economics. In this research note, it is analyzed which pieces of this new \u201cOn-The-Fly Computing\u201d ecosystem already exist and where additional, often significant research efforts are necessary."
+    },
+    {
+        "title": "CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis",
+        "date": "December 2020",
+        "doi": "10.1038/s41597-020-0523-6",
+        "conferance": null,
+        "citations_count": "Citations (7)",
+        "reference_count": "References (29)",
+        "abstract": "The Coronavirus Infectious Disease Ontology (CIDO) is a community-based ontology that supports coronavirus disease knowledge and data standardization, integration, sharing, and analysis."
+    },
+    {
+        "title": "Invariants for Time-Series Constraints",
+        "date": "December 2020",
+        "doi": "10.1007/s10601-020-09308-z",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (40)",
+        "abstract": "Many constraints restricting the result of some computations over an integer sequence can be compactly represented by counter automata. We improve the propagation of the conjunction of such constraints on the same sequence by synthesising a database of linear and non-linear invariants using their counter-automaton representation. The obtained invariants are formulae parameterised by the sequence length and proven to be true for any long enough sequence. To assess the quality of such linear invariants, we developed a method to verify whether a generated linear invariant is a facet of the convex hull of the feasible points. This method, as well as the proof of non-linear invariants, are based on the systematic generation of constant-size deterministic finite automata that accept all integer sequences whose result verifies some simple condition. We apply such methodology to a set of 44 time-series constraints and obtain 1400 linear invariants from which 70% are facet defining, and 600 non-linear invariants, which were tested on short-term electricity production problems."
+    },
+    {
+        "title": "Automatic Removal of Identifying Information in Official EU Languages for Public Administrations: The MAPA Project",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (12)",
+        "abstract": null
+    },
+    {
+        "title": "A Common Optimization Framework for Multi-Robot Exploration and Coverage in 3D Environments",
+        "date": "December 2020",
+        "doi": "10.1007/s10846-020-01255-4",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (38)",
+        "abstract": "This paper studies the problems of static coverage and autonomous exploration of unknown three-dimensional environments with a team of cooperating aerial vehicles. Although these tasks are usually considered separately in the literature, we propose a common framework where both problems are formulated as the maximization of online acquired information via the definition of single-robot optimization functions, which differs only slightly in the two cases to take into account the static and dynamic nature of coverage and exploration respectively. A common derivative-free approach based on a stochastic approximation of these functions and their successive optimization is proposed, resulting in a fast and decentralized solution. The locality of this methodology limits however this solution to have local optimality guarantees and specific additional layers are proposed for the two problems to improve the final performance. Specifically, a Voronoi-based initialization step is added for the coverage problem and a combination with a frontier-based approach is proposed for the exploration case. The resulting algorithms are finally tested in simulations and compared with possible alternatives."
+    },
+    {
+        "title": "Dynamic and Internal Longest Common Substring",
+        "date": "December 2020",
+        "doi": "10.1007/s00453-020-00744-0",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (89)",
+        "abstract": "Given two strings S and T, each of length at most n, the longest common substring (LCS) problem is to find a longest substring common to S and T. This is a classical problem in computer science with an \\(\\mathcal {O}(n)\\)-time solution. In the fully dynamic setting, edit operations are allowed in either of the two strings, and the problem is to find an LCS after each edit. We present the first solution to the fully dynamic LCS problem requiring sublinear time in n per edit operation. In particular, we show how to find an LCS after each edit operation in \\(\\tilde{\\mathcal {O}}(n^{2/3})\\) time, after \\(\\tilde{\\mathcal {O}}(n)\\)-time and space preprocessing. This line of research has been recently initiated in a somewhat restricted dynamic variant by Amir et al. [SPIRE 2017]. More specifically, the authors presented an \\(\\tilde{\\mathcal {O}}(n)\\)-sized data structure that returns an LCS of the two strings after a single edit operation (that is reverted afterwards) in \\(\\tilde{\\mathcal {O}}(1)\\) time. At CPM 2018, three papers (Abedin et al., Funakoshi et al., and Urabe et al.) studied analogously restricted dynamic variants of problems on strings; specifically, computing the longest palindrome and the Lyndon factorization of a string after a single edit operation. We develop dynamic sublinear-time algorithms for both of these problems as well. We also consider internal LCS queries, that is, queries in which we are to return an LCS of a pair of substrings of S and T. We show that answering such queries is hard in general and propose efficient data structures for several restricted cases."
+    },
+    {
+        "title": "Contributions of Cognitive Grammar to the history of the concept of meaning",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (13)",
+        "abstract": "This text intends to systematize the studies in the history of the concepts of meaning in order to understand the evolution of this linguistic topic, over the last decades, within the framework of cog- nitive linguistics.\nThe meaning of words, sentences and texts is the object of study of semantics, a discipline of linguistics that focuses on the meaning of linguistic expressions, as well as on the relations of mean- ing that these expressions celebrate among each other and with the world. The semantic properties of natural languages can be studied at all linguistic levels.\nAs a consequence of the growing awareness of the pragmatic dimension of language and of the dissolution of traditional oppositions among syntax, semantics and lexicon in linguistics, we realize that, in the second half of the twentieth century, there was a theoretical and methodological renewal and the creation of new disciplinary areas. In the 1980s, a link was established among linguistics, computer science and cognitive psychology. In this text, we highlight the contribution of all these areas to the concept of \u201cmeaning\u201d, especially that of cognitive grammar, which identifies and repre- sents the conceptual structures that are conventionalized in grammatical constructions, transferring our conceptual perception of the world to meaning."
+    },
+    {
+        "title": "On the impact of smart sensor approximations on the accuracy of machine learning tasks",
+        "date": "December 2020",
+        "doi": "10.1016/j.heliyon.2020.e05750",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (44)",
+        "abstract": "Smart sensors present in ubiquitous Internet of Things (IoT) devices often obtain high energy efficiency by carefully tuning how the sensing, the analog to digital (A/D) conversion and the digital serial transmission are implemented. Such tuning involves approximations, i.e. alterations of the sensed signals that can positively affect energy consumption in various ways. However, for many IoT applications, approximations may have an impact on the quality of the produced output, for example on the classification accuracy of a Machine Learning (ML) model. While the impact of approximations on ML algorithms is widely studied, previous works have focused mostly on processing approximations.\nIn this work, in contrast, we analyze how the signal alterations imposed by smart sensors impact the accuracy of ML classifiers. We focus in particular on data alterations introduced in the serial transmission from a smart sensor to a processor, although our considerations can also be extended to other sources of approximation, such as A/D conversion. Results on several types of models and on two different datasets show that ML algorithms are quite resilient to the alterations produced by smart sensors, and that the serial transmission energy can be reduced by up to 70% without a significant impact on classification accuracy. Moreover, we also show that, contrarily to expectations, the two generic approximation families identified in our work yield similar accuracy losses."
+    },
+    {
+        "title": "Unveiling large-scale commuting patterns based on mobile phone cellular network data",
+        "date": "December 2020",
+        "doi": "10.1016/j.jtrangeo.2020.102871",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (58)",
+        "abstract": "In this study, with Estonia as an example,we established an approach based on Hidden Markov Model to extract large-scale commuting patterns at different geographical levels using a massive amount of mobile phone cellular network data, which is referred to as Call detail record (CDR). The proposed model is designed for reconstructing and transforming the trajectories extracted from the CDR data. This step allowed us to perform origin-destination matrix extraction among different geographical levels, which helped in depicting the commuting patterns. Besides, we introduced different techniques for analyzing the commuting at the urban level. Our results unveiled that there is great potential behind mobile data of the cellular networks after transforming it into meaningful mobility patterns. That can easily be used for understanding urban dynamics, large-scale daily commuting and mobility. The aggressive development and growth of ubiquitous mobile sensing have generated valuable data that can be used with our approach for providing answers and solutions to the growing problems of transportation, urbanization and sustainability."
+    },
+    {
+        "title": "A Framework for Quantifying Controversy of Social Network Debates Using Attributed Networks: Biased Random Walk (BRW)",
+        "date": "December 2020",
+        "doi": "10.1007/s13278-020-00703-1",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (59)",
+        "abstract": "All societies, have been much more bipolar over the past few years, particularly after the emergence of online social networks and media. In fact, the gap between the two ends of social spectrum is going to be even deeper after the spread of new media. In this circumstance, social polarization has been a growing concern among socialists and computer science experts because of the detrimental impact which online social networks can have on societies by adding fuel to the fire of extremism. Several types of research were conducted for proposing measures to calculate the controversy level in social networks, afterward, to reduce controversy among contradicting viewpoints, for example, by exposing opinions of one side to other side's members. Most of the attempts for quantifying social networks' controversy have considered the networks in their most primary forms, without any attributes. Although these kinds of researches provide platform-free algorithms to be used in different social networks, they are not able to take into account a great deal of useful information provided by users (node attributes).To surmount this shortcoming, we propose a framework to be utilized in different networks with different attributes. We propelled some Biased Random Walks (BRW) to find their path from start point to an initially unknown endpoint with respect to initial energy of start node and energy loss of nodes on the path. We extracted structural attribute of networks, using node2vec, and compared it with state-of-the-art algorithms, and showed its accuracy. Then, we extracted some content attributes of user and analyze their effects on the results of our algorithm. BRW is compared with another state-of-the-art controversy measuring algorithm. Then, its changes in different level of controversy in Persian Twitter is considered to show how it works in different circumstance."
+    },
+    {
+        "title": "A BBR-based congestion control for delay-sensitive real-time applications",
+        "date": "December 2020",
+        "doi": "10.1007/s00607-020-00829-2",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (38)",
+        "abstract": "The current User Datagram Protocol (UDP) causes unfairness and bufferbloats to delay sensitive applications due to the uncontrolled congestion and monopolization of available bandwidth.This causes call drops and frequent communication/connection loss in delay sensitive applications such as VoIP. We present a Responsive Control Protocol using Bottleneck Bandwidth and Round trip propagation time (RCP-BBR) as an alternate solution to UDP. RCP-BBR achieves low latency, high throughput, and low call drops ratio by efficiently customizing Transmission Control Protocol (TCP) Bottleneck Bandwidth and Round-trip propagation time (TCP-BBR) congestion control. We conducted comprehensive experiments, and the results show that proposed protocol achieves better throughput over UDP in stable networks. Moreover, in unstable and long-distanced networks, RCP-BBR achieved smaller queues in deep buffers and lower delays as compared to UDP, which performed poorly by keeping delays above the call drop threshold."
+    },
+    {
+        "title": "Evolutionary training and abstraction yields algorithmic generalization of neural computers",
+        "date": "December 2020",
+        "doi": "10.1038/s42256-020-00255-1",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (49)",
+        "abstract": "A key feature of intelligent behaviour is the ability to learn abstract strategies that scale and transfer to unfamiliar problems. An abstract strategy solves every sample from a problem class, no matter its representation or complexity\u2014similar to algorithms in computer science. Neural networks are powerful models for processing sensory data, discovering hidden patterns and learning complex functions, but they struggle to learn such iterative, sequential or hierarchical algorithmic strategies. Extending neural networks with external memories has increased their capacities to learn such strategies, but they are still prone to data variations, struggle to learn scalable and transferable solutions, and require massive training data. We present the neural Harvard computer, a memory-augmented network-based architecture that employs abstraction by decoupling algorithmic operations from data manipulations, realized by splitting the information flow and separated modules. This abstraction mechanism and evolutionary training enable the learning of robust and scalable algorithmic solutions. On a diverse set of 11 algorithms with varying complexities, we show that the neural Harvard computer reliably learns algorithmic solutions with strong generalization and abstraction, achieves perfect generalization and scaling to arbitrary task configurations and complexities far beyond seen during training, and independence of the data representation and the task domain."
+    },
+    {
+        "title": "Phase transitions for detecting latent geometry in random graphs",
+        "date": "December 2020",
+        "doi": "10.1007/s00440-020-00998-3",
+        "conferance": null,
+        "citations_count": "Citations (2)",
+        "reference_count": "References (57)",
+        "abstract": "Random graphs with latent geometric structure are popular models of social and biological networks, with applications ranging from network user profiling to circuit design. These graphs are also of purely theoretical interest within computer science, probability and statistics. A fundamental initial question regarding these models is: when are these random graphs affected by their latent geometry and when are they indistinguishable from simpler models without latent structure, such as the Erd\u0151s\u2013R\u00e9nyi graph G(n,p)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathcal {G}}(n, p)$$\\end{document}? We address this question for two of the most well-studied models of random graphs with latent geometry\u2014the random intersection and random geometric graph. Our results are as follows: (a) The random intersection graph is defined by sampling n random sets S1,S2,\u2026,Sn\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$S_1, S_2, \\ldots , S_n$$\\end{document} by including each element of a set of size d in each Si\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$S_i$$\\end{document} independently with probability \u03b4\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\delta $$\\end{document}, and including the edge {i,j}\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\{i, j\\}$$\\end{document} if Si\u2229Sj\u2260\u2205\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$S_i \\cap S_j \\ne \\emptyset $$\\end{document}. We prove that the random intersection graph converges in total variation to an Erd\u0151s\u2013R\u00e9nyi graph if d=\u03c9~(n3)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$d = {\\tilde{\\omega }}(n^3)$$\\end{document}, and does not if d=o(n3)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$d = o(n^3)$$\\end{document}, for both dense and sparse edge densities p. This resolves an open problem in Fill et al. (Random Struct Algorithms 16(2):156\u2013176, 2000), Rybarczyk (Random Struct Algorithms 38(1\u20132):205\u2013234, 2011) and Kim et al. (Random Struct Algorithms 52(4):662\u2013679, 2018). The same result was obtained simultaneously and independently by Bubeck et al. (When random intersection graphs lose geometry. Manuscript, 2019). (b) We strengthen the preceding argument to show that the matrix of random intersection sizes |Si\u2229Sj|\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$|S_i \\cap S_j|$$\\end{document} converges in total variation to a symmetric matrix with independent Poisson entries. This yields the first total variation convergence result for \u03c4\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\tau $$\\end{document}-random intersection graphs, where the edge {i,j}\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\{i, j\\}$$\\end{document} is included if |Si\u2229Sj|\u2265\u03c4\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$|S_i \\cap S_j| \\ge \\tau $$\\end{document}. More precisely, our results imply that, if p is bounded away from 1, then the \u03c4\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\tau $$\\end{document}-random intersection graph with edge density p converges to G(n,p)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathcal {G}}(n, p)$$\\end{document} if d=\u03c9(\u03c43n3)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$d = \\omega (\\tau ^3 n^3)$$\\end{document}. (c) The random geometric graph on Sd-1\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathbb {S}}^{d - 1}$$\\end{document} is defined by sampling X1,X2,\u22ef,Xn\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$X_1, X_2, \\dots , X_n$$\\end{document} uniformly at random from Sd-1\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathbb {S}}^{d - 1}$$\\end{document} and including the edge {i,j}\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\{i, j\\}$$\\end{document} if \u2016Xi-Xj\u20162\u2264\u03c4\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\Vert X_i - X_j \\Vert _2 \\le \\tau $$\\end{document}. A result of Bubeck et al. (Random Struct Algorithms 49:503\u2013532, 2016) showed that this model converges to G(n,p)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathcal {G}}(n, p)$$\\end{document} in total variation, where p is chosen so that the models have matching edge densities, as long as d=\u03c9(n3)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$d = \\omega (n^3)$$\\end{document}. It was conjectured in Bubeck et al. (2016) that this threshold decreases drastically for p small. We make the first progress towards this conjecture by showing convergence if d=\u03c9~min{pn3,p2n7/2}\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$d = {\\tilde{\\omega }}\\left( \\min \\{ pn^3, p^2 n^{7/2} \\} \\right) $$\\end{document}. Our proofs are a hybrid of combinatorial arguments, direct couplings and applications of information inequalities. Previous upper bounds on the total variation distance between random graphs with latent geometry and G(n,p)\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$${\\mathcal {G}}(n, p)$$\\end{document} have typically not been both combinatorial and information-theoretic, while this interplay is essential to the sharpness of our bounds."
+    },
+    {
+        "title": "Recent Methods from Computer Vision for Perception in Highly Automated Driving (Keynote at ACM Computer Science in Cars Symposium 2020)",
+        "date": "December 2020",
+        "doi": "10.13140/RG.2.2.19349.35048",
+        "conferance": "Conference: ACM Comuter Science in Cars Symposium (CSCS) 2020",
+        "citations_count": null,
+        "reference_count": "References (8)",
+        "abstract": "Prof. Dr.-Ing. Tim Fingscheidt holds the Chair of Signal Processing and Machine Learning at Technische Universit\u00e4t Braunschweig. He heads the TU Braunschweig Deep Learning Lab (TUBS.dll), having research interest in machine learning for Speech, Vision, and Predictive Maintenance. In his keynote, he will present selected results from the field of Computer Vision for perception in highly automated driving. The talk will draw from his Vision team\u2019s recent works and will cover some of the following methods: Domain mismatch adaptation, continual learning, adversarial attacks and defenses, multi-task learning and monocular depth estimation."
+    },
+    {
+        "title": "Whole-Body Manipulation",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (28)",
+        "abstract": null
+    },
+    {
+        "title": "TBFMM: A C++ generic and parallel fast multipole method library",
+        "date": "December 2020",
+        "doi": "10.21105/joss.02444",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (28)",
+        "abstract": null
+    },
+    {
+        "title": "An image encryption scheme based on public key cryptosystem and quantum logistic map",
+        "date": "December 2020",
+        "doi": "10.1038/s41598-020-78127-2",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (67)",
+        "abstract": "Most of existing image encryption schemes are proposed in the spatial domain which easily destroys the correlation between pixels. This paper proposes an image encryption scheme by employing discrete cosine transform (DCT), quantum logistic map and substitution-permutation network (SPN). The DCT is used to transform the images in the frequency domain. Meanwhile, the SPN is used to provide the security properties of confusion and diffusion. The SPN provides fast encryption as compared to the asymmetric based image encryption since operations with low computational complexity are used (e.g., exclusive-or and permutation). Different statistical experiments and security analysis are performed against six grayscale and color images to justify the effectiveness and security of the proposed image encryption scheme."
+    },
+    {
+        "title": "Systematic Roadmap to Address the Research Issues and Challenges in Advanced Intelligent Video Surveillance with Deep Learning Techniques",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: AICTE Sponsored FDP on\u00a0\"Contemporary Research Issues and Challenges in\u00a0Advanced Intelligent Video Surveillance with Deep Learning Techniques\"",
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "Presented \"Systematic Roadmap to Address the Research Issues and Challenges in Advanced Intelligent Video Surveillance with Deep Learning Techniques\" on 3rd Dec 2020, Thursday 10.30 AM to 12 PM Online in AICTE Sponsored Faculty Development Programme organized by the Department of Computer Science and Engineering, Muthayammal Engineering College(Autonomous), Rasipuram, Salem, tamil Nadu."
+    },
+    {
+        "title": "Novice Cybersecurity Students Encounter TracerFIRE: An Experience Report",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: EDSIGCON",
+        "citations_count": null,
+        "reference_count": "References (9)",
+        "abstract": "Integrating hands-on learning into a competitive cybersecurity exercise is known to be a popular and potentially powerful way to motivate experiential learning in computer and network security (Childers, et al., 2010; Fanelli & O'Connor, 2010; Vigna, et al., 2014; Siami Namin, et al., 2016). In addition to having taken relevant computer science (CS) and/or information technology (IT) classes, competitive cybersecurity exercise participants typically conduct specific preparation activities based on known technical expectations of the exercise. It is also common, in team events, for some portion of the team to have prior experience navigating the rigors of the event. Over the weekend of February 22-23, 2020, eight students from the University of North Carolina Wilmington (UNCW), with no prior competitive cybersecurity event experience and little preparation attended their first-ever cybersecurity competition-Tracer FIRE 9. In this paper, we describe that experience and relate how experiential learning made it valuable even for a group with very little previous exposure to cybersecurity-specific education."
+    },
+    {
+        "title": "Tight Chang's-lemma-type bounds for Boolean functions",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (23)",
+        "abstract": "Chang's lemma (Duke Mathematical Journal, 2002) is a classical result with applications across several areas in mathematics and computer science. For a Boolean function $f$ that takes values in {-1,1} let $r(f)$ denote its Fourier rank. For each positive threshold $t$, Chang's lemma provides a lower bound on $wt(f):=\\Pr[f(x)=-1]$ in terms of the dimension of the span of its characters with Fourier coefficients of magnitude at least $1/t$. We examine the tightness of Chang's lemma w.r.t. the following three natural settings of the threshold: - the Fourier sparsity of $f$, denoted $k(f)$, - the Fourier max-supp-entropy of $f$, denoted $k'(f)$, defined to be $\\max \\{1/|\\hat{f}(S)| : \\hat{f}(S) \\neq 0\\}$, - the Fourier max-rank-entropy of $f$, denoted $k''(f)$, defined to be the minimum $t$ such that characters whose Fourier coefficients are at least $1/t$ in absolute value span a space of dimension $r(f)$. We prove new lower bounds on $wt(f)$ in terms of these measures. One of our lower bounds subsumes and refines the previously best known upper bound on $r(f)$ in terms of $k(f)$ by Sanyal (ToC, 2019). Another lower bound is based on our improvement of a bound by Chattopadhyay, Hatami, Lovett and Tal (ITCS, 2019) on the sum of the absolute values of the level-$1$ Fourier coefficients. We also show that Chang's lemma for the these choices of the threshold is asymptotically outperformed by our bounds for most settings of the parameters involved. Next, we show that our bounds are tight for a wide range of the parameters involved, by constructing functions (which are modifications of the Addressing function) witnessing their tightness. Finally we construct Boolean functions $f$ for which - our lower bounds asymptotically match $wt(f)$, and - for any choice of the threshold $t$, the lower bound obtained from Chang's lemma is asymptotically smaller than $wt(f)$."
+    },
+    {
+        "title": "Propagating AI Knowledge Across University Disciplines-The Design of A Multidisciplinary AI Study Module",
+        "date": "December 2020",
+        "doi": "10.1109/FIE44824.2020.9273940",
+        "conferance": "Conference: 2020 IEEE Frontiers in Education Conference (FIE)",
+        "citations_count": null,
+        "reference_count": "References (48)",
+        "abstract": "The ongoing AI revolution has disrupted several industry sectors and will keep having an unprecedented impact on all areas of society. This is predicted to force a major proportion of the workforce to re-educate itself during the next few decades. Consequently, this has led to a growing demand for multidisciplinary AI education also for students outside computer science. Therefore, a 25 credit (ECTS) cross-disciplinary study module on AI, targeting students in all faculties, was designed. We present findings from the design and implementation of the study module as well as students' initial perceptions towards AI at the beginning of the study module. Enrollment for the first implementation of the study module began in autumn 2019. The student distribution (N=144) between faculties was the following: natural sciences (n=37), social sciences (n=23), law (n=17), education (n=17), economics (n=16), medicine (n=10), humanities (n=10) and open university (n=14). Based on a survey distributed to students (N=34), the primary reason for enrolling to study AI was interest towards the subject, followed by the need of AI skills at work and relevance of AI in society."
+    },
+    {
+        "title": "Asymptotic Dimension of Minor-Closed Families and Assouad-Nagata Dimension of Surfaces",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (40)",
+        "abstract": "The asymptotic dimension is an invariant of metric spaces introduced by Gromov in the context of geometric group theory. In this paper, we study the asymptotic dimension of metric spaces generated by graphs and their shortest path metric and show their applications to some continuous spaces. The asymptotic dimension of such graph metrics can be seen as a large scale generalisation of weak diameter network decomposition which has been extensively studied in computer science. We prove that every proper minor-closed family of graphs has asymptotic dimension at most 2, which gives optimal answers to a question of Fujiwara and Papasoglu and (in a strong form) to a problem raised by Ostrovskii and Rosenthal on minor excluded groups. For some special minor-closed families, such as the class of graphs embeddable in a surface of bounded Euler genus, we prove a stronger result and apply this to show that complete Riemannian surfaces have Assouad-Nagata dimension at most 2. Furthermore, our techniques allow us to prove optimal results for the asymptotic dimension of graphs of bounded layered treewidth and graphs of polynomial growth, which are graph classes that are defined by purely combinatorial notions and properly contain graph classes with some natural topological and geometric flavours."
+    },
+    {
+        "title": "On proof theory in computer science",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (8)",
+        "abstract": "The subject logic in computer science should entail proof theoretic applications. So the question arises whether open problems in computational complexity can be solved by advanced proof theoretic techniques. In particular, consider the complexity classes NP, coNP and PSPACE. It is well-known that NP and coNP are contained in PSPACE, but till recently precise characterization of these relationships remained open. Now [2], [3] (see also [4]) presented proofs of corresponding equalities NP = coNP = PSPACE. These results were obtained by appropriate proof theoretic tree-to-dag compressing techniques to be briefy explained below. [2] L. Gordeev, E. H. Haeusler, Proof Compression and NP Versus PSPACE, Studia Logica (107) (1): 55{83 (2019) [3] L. Gordeev, E. H. Haeusler, Proof Compression and NP Versus PSPACE II, Bulletin of the Section of Logic (49) (3): 213{230 (2020) http://dx.doi.org/10.18788/0138-0680.2020.16 [4] L. Gordeev, E. H. Haeusler, Proof Compression and NP Versus PSPACE II: Addendum, arXiv:2011.09262 (2020)"
+    },
+    {
+        "title": "Unlabelled ordered DAGs and labelled DAGs: constructive enumeration and uniform random sampling",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (19)",
+        "abstract": "Directed Acyclic Graphs (DAGs) are directed graphs in which there is no path from a vertex to itself. DAGs are an omnipresent data structure in computer science and the problem of counting the DAGs of given number of vertices has been solved in the 70's by Robinson. In many applications one needs to construct connected DAGs and to control their number of edges, but the adaptation of Robinson's enumeration to take this into account led to counting formulas based on the inclusion-exclusion principle, inducing a high computational cost for the uniform random sampling of DAGs based on this formula. In the present paper we propose two contributions. First we enumerate a new class of DAGs, enriched with an independent ordering of the children of each vertex, according to their numbers of vertices and edges. We obtain a constructive recursive counting formula for them (i.e. without using the inclusion-exclusion principle) using a new decomposition scheme. Then we show the applicability of our method by proposing a constructive enumeration of Robinson's labelled DAGs, by vertices and edges, based on the same decomposition. As a consequence we are able to derive efficient uniform random samplers for both models."
+    },
+    {
+        "title": "\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0433\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0442\u0435\u043e\u0440\u0438\u0438 \u043f\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f (Social systems from the geometric theory of behavior point of view)",
+        "date": "December 2020",
+        "doi": "10.19181/kongress.2020.400",
+        "conferance": "Conference: VI \u0412\u0441\u0435\u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0441\u043e\u0446\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043d\u0433\u0440\u0435\u0441\u0441",
+        "citations_count": null,
+        "reference_count": "References (6)",
+        "abstract": "\u0427\u0435\u043c \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043f\u043e\u043b\u0435\u0437\u043d\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u0441\u043e\u0446\u0438\u043e\u043b\u043e\u0433\u0438\u0438, \u043a\u0440\u043e\u043c\u0435 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445? \u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435 \u0434\u043b\u044f \u0441\u043e\u0446\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0434\u0438\u0441\u043a\u0443\u0440\u0441\u0430 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f \u044f\u0437\u044b\u043a, \u0440\u043e\u0434\u0438\u0432\u0448\u0438\u0439\u0441\u044f \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u043b\u043e\u0436\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u043d\u043e\u0439 \u0442\u0435\u043e\u0440\u0438\u0438, \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u043c\u0438 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0438 \u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u0438\u043a\u0438. \u0414\u043e\u0441\u0442\u043e\u0438\u043d\u0441\u0442\u0432\u0430\u043c\u0438 \u044d\u0442\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043e\u0434\u043d\u043e\u0437\u043d\u0430\u0447\u043d\u043e\u0441\u0442\u044c \u0438 \u0440\u0430\u0437\u0432\u0438\u0442\u044b\u0435 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0442\u0438\u043f\u0438\u0437\u0430\u0446\u0438\u0438, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0435 \u0440\u0430\u0437\u043b\u0438\u0447\u0430\u0442\u044c \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0447\u0430\u0441\u0442\u043e \u0441\u043c\u0435\u0448\u0438\u0432\u0430\u044e\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u0434\u0438\u0441\u043a\u0443\u0440\u0441 \u0432\u0435\u0434\u0435\u0442\u0441\u044f \u043d\u0430 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435. \nHow can mathematics be useful for sociology, in other ways than experimental data processing methods? In this paper, we propose a language for sociological discourse that was born during the complex systems modeling, using structural theory, mathematics and computer science. The advantages of this language are mathematical unambiguity and advanced typification tools that allow us to distinguish between entities that are often mixed when the discourse is conducted in natural languages."
+    },
+    {
+        "title": "Using phidelta diagrams to discover relevant patterns in multilayer perceptrons",
+        "date": "December 2020",
+        "doi": "10.1038/s41598-020-76517-0",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (62)",
+        "abstract": "Understanding the inner behaviour of multilayer perceptrons during and after training is a goal of paramount importance for many researchers worldwide. This article experimentally shows that relevant patterns emerge upon training, which are typically related to the underlying problem difficulty. The occurrence of these patterns is highlighted by means of \u27e8\u03c6,\u03b4\u27e9\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\langle \\varphi ,\\delta \\rangle$$\\end{document} diagrams, a 2D graphical tool originally devised to support the work of researchers on classifier performance evaluation and on feature assessment. The underlying assumption being that multilayer perceptrons are powerful engines for feature encoding, hidden layers have been inspected as they were in fact hosting new input features. Interestingly, there are problems that appear difficult if dealt with using a single hidden layer, whereas they turn out to be easier upon the addition of further layers. The experimental findings reported in this article give further support to the standpoint according to which implementing neural architectures with multiple layers may help to boost their generalisation ability. A generic training strategy inspired by some relevant recommendations of deep learning has also been devised. A basic implementation of this strategy has been thoroughly used during the experiments aimed at identifying relevant patterns inside multilayer perceptrons. Further experiments performed in a comparative setting have shown that it could be adopted as viable alternative to the classical backpropagation algorithm."
+    },
+    {
+        "title": "GRAPH SIGNAL SAMPLING AND INTERPOLATION BASED ON CLUSTERS AND AVERAGES",
+        "date": "December 2020",
+        "doi": "10.13140/RG.2.2.16577.17769",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (39)",
+        "abstract": "We consider a disjoint cover (a partition) of a set of vertices of a combinatorial undirected weighted finite or infinite graph G by connected subgraphs (clusters) {S j } j\u2208J and select a function \u03c8 j on each of the clusters. For a given function (signal) f on G the set of its samples is a a set of inner products { f, \u03c8 j } j\u2208J (weighted average values). Our main results are certain inequalities which are similar to a Poincare-type inequality. They provide estimate of the norm of a signal on the entire graph through its set of samples and its local gradients on each of subgraphs. This enables us to establish discrete Plancherel-Polya-type inequalities (or Marcinkiewicz-Zigmund-type or frame inequalities) on sets of signals whose gradients satisfy a Bernstein-type inequality. This leads to development of a sampling theory for signals on G. For reconstruction of signals from their sets of samples an interpolation theory by weighted average variational splines is developed. Here by a weighted average variational spline we understand a minimizer of a discrete Sobolev norm which takes on prescribed weighted average values on a set of clusters. Although our results hold true for rather general graphs they are especially well suited for finite and infinite graphs with multiple clusters. Such graphs are known as community graphs and they find many important applications in biology, computer sciences, engineering, economics, social studies."
+    },
+    {
+        "title": "VYU\u017dIT\u00cd METOD EYE-TRACKINGU A BIOMETRICK\u00c9HO TESTOV\u00c1N\u00cd P\u0158I STUDIU KOGNITIVN\u00cd Z\u00c1T\u011a\u017dE V PROST\u0158ED\u00cd ARCGIS STORY MAP",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: International Journal of Information and Communication Technologies in Education",
+        "citations_count": null,
+        "reference_count": "References (35)",
+        "abstract": "Abstrakt Sou\u010dasn\u00fd trend ve \u0161kolstv\u00ed spole\u010dn\u011b s pandemi\u00ed COVID-19 potvrdil nutnost zav\u00e1d\u011bt informa\u010dn\u00ed technologie i do jin\u00fdch p\u0159edm\u011bt\u016f ne\u017eli informatiky. Ve chv\u00edli, kdy dojde k zav\u0159en\u00ed cel\u00e9 \u0161koly a klasick\u00e1 v\u00fduka bude nahrazena d\u00e1lkovou (online) v\u00fdukou, bude nutn\u00e9 pou\u017e\u00edvat webov\u00fdch aplikac\u00ed \u010di je p\u0159\u00edmo vytv\u00e1\u0159et. Lze tedy p\u0159edpokl\u00e1dat, \u017ee aplikac\u00ed pro d\u00e1lkovou v\u00fduku bude postupn\u011b p\u0159ib\u00fdvat. Jedn\u00edm ze slibn\u00fdch n\u00e1stroj\u016f pro d\u00e1lkov\u00e9 vzd\u011bl\u00e1v\u00e1n\u00ed (nejen) zem\u011bpisu lze ozna\u010dit aplikaci ArcGIS Story map spole\u010dnosti ESRI. Obliba tohoto prezenta\u010dn\u00edho m\u00e9dia rychle roste, p\u0159edev\u0161\u00edm d\u00edky interaktivit\u011b a mo\u017enosti poutav\u011b prezentovat multimedi\u00e1ln\u00ed obsah od webov\u00fdch map a\u017e po YouTube videa. Jak\u00e9 je v\u0161ak efektivn\u00ed mno\u017estv\u00ed informac\u00ed a \u00fakol\u016f a jejich n\u00e1ro\u010dnost, pokud je tento n\u00e1stroj pou\u017eit jako pom\u016fcka distan\u010dn\u00ed v\u00fduky? Kdy je kognitivn\u00ed z\u00e1t\u011b\u017e na \u017e\u00e1ka p\u0159ijateln\u00e1 a kdy za\u010dne doch\u00e1zet k zahlcen\u00ed a rezignaci \u017e\u00e1ka? Hlavn\u00edm c\u00edlem pl\u00e1novan\u00e9ho v\u00fdzkumu je co nejobjektivn\u011bji zm\u011b\u0159it pomoc\u00ed technologi\u00ed eye-trackingu a elektroderm\u00e1ln\u00ed aktivity kognitivn\u00ed z\u00e1t\u011b\u017e a poskytnout tak objektivn\u011bj\u0161\u00ed pohled na to, jak tyto aplikace koncipovat. Abstract The current trend in education, together with the COVID-19 pandemics, has confirmed the need to introduce information technology in subjects other than computer science. In the moment, when all schools will be closed and classical teaching will be replaced by distance (online) teaching, it will be necessary to use web applications or even create them. So, we can expect the number of distance learning applications to increase. the ArcGIS Story map application from ESRI can be marked as one of the promising tools for distance learning (not only) geography. The popularity of this presentation medium is growing rapidly, especially thanks to the interactivity and the ability to present multimedia from a web map to videos on YouTube in an engaging way. How much information and tasks and their complexity are effective if this tool is used as a distance learning utility? When is the cognitive load on the student acceptable and when does the student begin to overwhelm and resign? The main goal of the planned research is to measure the cognitive load as objectively as possible by using eye-tracking and electrodermal activity to bring a more objective view of how to design these applications."
+    },
+    {
+        "title": "Preliminary Comparison of K-12 Computing Education in China and the United States",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: IEEE TALE2020 \u2013 An International Conference on Engineering, Technology and Education",
+        "citations_count": null,
+        "reference_count": "References (6)",
+        "abstract": "The thesis starts with the background of computing education in today's K-12 education development, and then compares Chinese and American computer science K-12 education based on frameworks and curriculum standards. The authors compared the framework design of computer science K-12 education in two countries from the perspectives of concept definition, structure, content, etc. To compare the curriculum design standards, the authors selected from the content, curriculum structure, curriculum implementation, curriculum teaching evaluation of curriculum and in-depth analysis and discussion were conducted from this perspective. The thesis summarizes the enlightenment of current Chinese education researchers on American K-12 computing education to Chinese education, and puts forward the author's own views."
+    },
+    {
+        "title": "A Bibliometric Review of Literature in Library User Education Published at Scopus-Elsevier Database Indexed Journals from 1976-2019",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (12)",
+        "abstract": "Aim of this research is focuses on analysis of literature published in journals indexed in Scopus-Elsevier database and produced by library information professionals to facilitate library users in terms of effective use of the library. A total of 114 documents written by 252; 2.2% authors and 2.5 per annum in library user education covers six types of literary work from 1976-2019. Research articles 96; 84% got attention of the majority. Sixty-four documents were written by solo authors and 188; 3.7% of authors contributed in 50 documents. The Library Philosophy and Practice e-journal provide space for 21 documents to publish. The United States felt the importance of this subject and contributed with 35; 31% documents. Library information sciences can better explaine by computer sciences to utilized resources and services in the process of decision-making. This study revealed that, the ultimate goal of library professionals is to save the time of reading through the ease of system with educational programs, instead of this the subject got lase attention among the eyes of library professionals."
+    },
+    {
+        "title": "Researcher Profile: Przemys\u0142aw Prusinkiewicz",
+        "date": "December 2020",
+        "doi": "10.1093/insilicoplants/diaa014",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "Przemys\u0142aw (Przemek) Prusinkiewicz is a Professor of Computer Science at the University of Calgary, Canada, where he creates models, simulations and visualizations of plant development. He received his MSc and PhD at the Technical University of Warsaw where he studied Computer Science and Engineering under Prof. Stanislaw Budkowski."
+    },
+    {
+        "title": "Development of Program Comprehension Skills by Novice Programmers - Longitudinal Eye Tracking Studies",
+        "date": "December 2020",
+        "doi": "10.15388/infedu.2020.23",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (35)",
+        "abstract": "The article discusses the findings of longitudinal studies (three stages spanning 6 months) which were to investigate the process of acquiring the ability to comprehension program code by the computer science students having started to learn to program. The studies were conducted with the use of a knowledge measurement test, the diagnostic survey, and eye tracking technology that enabled the recording of movement of the subjects\u2019 eyes and an analysis of the patterns of information processing during solving programming problems. The obtained results have shown that the students solved the tasks most effectively in the last stage of the research during which they obtained the highest indicator of correct answers in the significantly shortest time. In the last stage of the research the dominant form of the algorithmic problem analysis was code, in two previous it was flowchart. The eye tracking data have shown that regardless of the research stage the code analysis was definitely connected with a greater number of fixations, with very near values of time devoted to solving those two forms of the algorithm. The participants who increased their competences in a scope of the program code analysis had a significantly greater saccade amplitude average (SAA) and a significantly shorter fixation duration average (FDA) in the last stage of the research comparing to previous ones. The results suggest that the FDA and SAA are parameters sensitive to the development of program comprehension skills."
+    },
+    {
+        "title": "Evaluating an Educational Escape Room Conducted Remotely for Teaching Software Engineering",
+        "date": "December 2020",
+        "doi": "10.1109/ACCESS.2020.3044380",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (52)",
+        "abstract": "With the rise of distance learning, new challenges have emerged for educators. Among these challenges, developing effective and motivating group activities for students in the remote classroom is one of the top priorities to be addressed. According to existing literature, educational escape rooms have proven to be engaging and effective learning activities when conducted face-to-face. However, no prior research has analyzed the instructional effectiveness of these activities when they are conducted remotely. Furthermore, none of the educational escape rooms reported in the literature has been designed for teaching software modeling. This article analyzes an educational escape room conducted remotely in a software engineering fundamentals course for teaching software modeling. A total of three evaluation instruments were used: a pre-test and a post-test to measure students\u2019 learning gains, a questionnaire to collect students\u2019 perceptions, and a web platform for automatically gathering data on students\u2019 interactions. The contribution of this article is two-fold. On the one hand, it provides, for the first time, evidence that remote educational escape rooms can be effective learning activities. On the other hand, it provides, also for the first time, proof that educational escape rooms are effective and engaging activities for teaching software modeling."
+    },
+    {
+        "title": "Creating a sustainable digital infrastructure: The role of service-oriented architecture",
+        "date": "December 2020",
+        "doi": "10.13140/RG.2.2.34362.00963",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (49)",
+        "abstract": "Note: This paper was presented at the Centeris conference Oct 22 2020. The paper is forthcoming in Procedia Computer Science, Elsevier. \n\nAbstract: The United Nations' goal of generating sustainable industry, innovation, and infrastructure is the point of departure for our reflective paper. The paper elaborates on the concepts of digital infrastructure, service-oriented architecture, and microservices. It emphasizes the benefits and challenges of creating a sustainable infrastructure based on a service-oriented environment, in which cloud services constitute an important part. We outline the prerequisites for obtaining a sustainable digital infrastructure based on services. Service-oriented architecture (SOA) and recently, microservice architecture, and cloud services, can provide organizations with the improved agility and flexibility essential for generating sustainability in a market focusing on digitalization. The reuse capability of SOA provides a common pool of information technology (IT) resources and qualifies as a green IT approach that impacts environmental protection. Previous research has identified IT and business alignment together with SOA governance as the most critical criteria when implementing SOA. This paper discusses these issues in-depth to explain sustainability."
+    },
+    {
+        "title": "miRID: Multi-Modal Image Registration Using Modality-Independent and Rotation-Invariant Descriptor",
+        "date": "December 2020",
+        "doi": "10.3390/sym12122078",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (32)",
+        "abstract": "Axiomatically, symmetry is a fundamental property of mathematical functions defining similarity measures, where similarity measures are important tools in many areas of computer science, including machine learning and image processing. In this paper, we investigate a new technique to measure the similarity between two images, a fixed image and a moving image, in multi-modal image registration (MIR). MIR in medical image processing is essential and useful in diagnosis and therapy guidance, but still a very challenging task due to the lack of robustness against the rotational variance in the image transformation process. Our investigation leads to a novel, local self-similarity descriptor, called the modality-independent and rotation-invariant descriptor (miRID). By relying on the mean of the intensity values, an miRID is simply computable and can effectively handle the complicated intensity relationship between multi-modal images. Moreover, it can also overcome the problem of rotational variance by sorting the numerical values, each of which is the absolute difference between each pixel\u2019s intensity and the mean of all pixel intensities within a patch of the image. The experimental result shows that our method outperforms others in both multi-modal rigid and non-rigid image registrations."
+    },
+    {
+        "title": "5G Networks Course Outline SYSC5804 Advanced Topics in Communications Systems COMP 5900 Selected Topics in Computer Science ITEC 5910W Selected Topics in Network Technologies",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "1. Erik Dahlman, Stefan Parkvall, Johan Skold, 5G NR: The Next Generation Wireless\nAccess Technology, Academic Press, 2018.\n2. Saad Z. Asif, 5G Mobile Communications - Concepts and Technologies, Taylor &\nFrancis Group LLC - CRC Press, 2019."
+    },
+    {
+        "title": "Experimental pedagogical activity when teaching computer science to younger students",
+        "date": "December 2020",
+        "doi": "10.22363/2312-8631-2020-17-1-18-25",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (17)",
+        "abstract": "Problem and goal. One of the important components of the educational and methodical work of a teacher who teaches computer science to younger students is the quality control of the acquired system of knowledge of schoolchildren, which involves experimental pedagogical activity. Such experimental pedagogical activities include pedagogical experiments, the results of which are processed and analyzed using mathematical methods. Pedagogical measurements allow to justify the effectiveness of the implemented teaching methodology. Methodology. Pedagogical measurements are carried out in pedagogical research aimed at improving the content, methods, forms and means of teaching computer science to younger students using didactic games. The pedagogical experiment itself includes ascertaining, searching, forming and controlling stages. The analysis of the results of pedagogical measurements aimed at identifying the quality of the obtained knowledge in computer science of younger students can be effectively carried out using mathematical and statistical methods. Results. The conducted pedagogical measurements allow to draw a conclusion about how much younger students have subject knowledge in computer science, which is taught using didactic games; to identify the level of their worldview, logical thinking. Conclusion. Experimental pedagogical activity of the teacher in the process of teaching computer science to younger students allows to identify the effectiveness of such training, the level of subject knowledge of students. Analysis of the results of pedagogical measurements allows, if necessary, to correct the methodology and content of training in computer science."
+    },
+    {
+        "title": "Conte\u00fado Conceitual e Aspectos Pr\u00e1ticos da Ci\u00eancia da Computa\u00e7\u00e3o",
+        "date": "December 2020",
+        "doi": "10.22533/at.ed.010201412",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (162)",
+        "abstract": "A Ci\u00eancia da Computa\u00e7\u00e3o, traz in\u00fameros benef\u00edcios para a sociedade\nmoderna, tais como: a cria\u00e7\u00e3o de empregos, o desenvolvimento de novos\nequipamentos, o ganho de produtividade nas empresas e o acesso \u00e0 informa\u00e7\u00e3o.\nOs estudos realizados nesta \u00e1rea s\u00e3o aplicados em diversas outras \u00e1reas do\nconhecimento, proporcionando a resolu\u00e7\u00e3o de diferentes problemas da sociedade,\ntrazendo avan\u00e7os significativos para a vida de in\u00fameras pessoas, fazendo com que\ncada vez mais estes profissionais sejam valorizados, requisitados e prestigiados no\nmercado de trabalho."
+    },
+    {
+        "title": "Ethical implications of emotion mining in medicine",
+        "date": "December 2020",
+        "doi": "10.1016/j.hlpt.2020.11.006",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (51)",
+        "abstract": "The tools of emotion mining were developed in the field of computer science to detect and evaluate human emotions. In recent years we have seen an evolution of novel health technologies that utilise data-driven emotion mining for mental health diagnostics and assessment. Our paper describes the new ethical scenarios posed by these models through a series of case studies and discusses how existing ethics frameworks can be adapted to meet these new challenges."
+    },
+    {
+        "title": "Game theory and its place in socioeconomic life",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (7)",
+        "abstract": "Game theory is a mathematical model of the interaction between independent agents who want to maximize their interests. The application of the theory is evaluated through the mathematical models of the computer, which is the tool of digital technology. In this respect, theory is increasingly being applied to include disciplines as diverse as political science, biology, psychology, economics, linguistics, sociology, and computer science. In game theory, individuals are accepted as players and take steps by taking each other's moves into account in the decision-making process. The theory is based on how to achieve rational decision-making by modeling these behaviors."
+    },
+    {
+        "title": "Toward understanding the conditions that promote higher attention in software developments -- a first step on music and standups",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (43)",
+        "abstract": "Nowadays, Computer Science tightly entered all spheres of human activity. To improve quality and speed of development process, it is important to help programmers improve their working conditions. This paper proposes a vision on exploring this issue and presents in conjunction a factor that has been claimed multiple time to affect the effectiveness of software production, concentration and attention of software developers. We choose to focus on developers brain activity and features that can be extracted from it."
+    },
+    {
+        "title": "Is GPA Enough? A Platform for Promoting Computer Science Undergraduates\u2019 Pursuit of Career Related Extracurricular Activities",
+        "date": "December 2020",
+        "doi": "10.46328/ijtes.146",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (45)",
+        "abstract": "Despite the perceived value of extracurricular experience, higher education relies heavily on grade point average (GPA) as a measure of undergraduates\u2019 academic success. When used as a singular standard assessment, GPA, which is based on student progress and completion of coursework, may inadvertently steer undergraduates away from valuable out-of-class experiences that might enhance their employability after graduation. With this premise in mind, the current study proposes to supplement GPA scores in an undergraduate Computer Science program with a wholistic assessment known as an Innovation, Competency, and Experience (ICE) score. The ICE score is a point system for documenting and rewarding students\u2019 extracurricular activities, in addition to their GPA scores. We designed and developed a web-based technology platform called RadGrad to implement ICE scores and promote student engagement and participation in extracurricular activities. Preliminary data shows that over 36% of students started to use RadGrad, even though its use was completely voluntary. More than half of those students planned and participated in various extracurricular activities, ultimately earning ICE points. Importantly, the ICE score deployed through RadGrad demonstrates the potential value of a supplemental assessment to GPA, which can promote extracurricular experiences relevant to students\u2019 future careers beyond coursework."
+    },
+    {
+        "title": "Inaugural Address at CONIAPS XXVI_Advertisement",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "Russian Prof. Vladimir V. Egorov to inaugurate 26th International Webinar on Advances in Physics, Chemistry, Mathematics, Computer Sciences & Biological Sciences (CONIAPS XXVI) hosted by MG University."
+    },
+    {
+        "title": "M\u00e9thodes informatiques pour l\u2019\u00e9tude des gravures rupestres : les exemples du Valcamonica (Italie) et du mont Bego (France)",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (23)",
+        "abstract": "Le Valcamonica (100 000 gravures estim\u00e9es) et le mont Bego (36 000 gravures) sont les deux principales concentrations d\u2019art rupestre pour la M\u00e9diterran\u00e9e occidentale au cours de la Pr\u00e9histoire r\u00e9cente. Bien que des recherches y aient \u00e9t\u00e9 men\u00e9es depuis de nombreuses ann\u00e9es : au Valcamonica par E. Anati (1960, 2008) et au mont Bego par H. de Lumley et al. (1976, 2011), les interpr\u00e9tations propos\u00e9es restent peu convaincantes et largement d\u00e9battues. Les mod\u00e8les th\u00e9oriques et les outils pratiques employ\u00e9s par ces auteurs sont par ailleurs critiqu\u00e9s. Ainsi, Richard Bradley qualifiait la recherche au Valcamonica et au mont Bego de : \u00ab curiously introverted kind of research, which seems quite out of contact with the main currents in modern archaeology \u00bb (Bradley, 1997 p. 8). Deux th\u00e8ses doctorales ont r\u00e9cemment introduit l\u2019analyse syst\u00e9matique et statistique de bases de donn\u00e9es spatiales : pour les gravures du Valcamonica (Alexander, 2011) et du mont Bego (Huet, 2012). Les m\u00e9thodes informatiques (SIG, tests d\u2019hypoth\u00e8ses, analyses multifactorielles, etc.) permettent : (1) d\u2019\u00e9tudier conjointement les distributions iconographiques et spatiales des gravures, (2) d\u2019identifier parmi celles-ci des sous-ensembles consistants, (3) de construire un cadre th\u00e9orique explicite pour envisager les significations symboliques. Avec ces m\u00e9thodes, la \u00ab d\u00e9couverte \u00bb arch\u00e9ologique n\u2019est plus guid\u00e9e par les gravures exceptionnelles (l\u2019exception), mais par les tendances g\u00e9n\u00e9rales au sein du corpus. Ces tendances correspondent plus certainement aux ph\u00e9nom\u00e8nes que l\u2019arch\u00e9ologie entend expliquer lorsqu\u2019elle se propose d\u2019\u00e9tudier ces sites. Nous pr\u00e9senterons l\u2019historique de la recherche sur les gravures du Valcamonica et du mont Bego, et le renouvellement m\u00e9thodologique que repr\u00e9sente l\u2019introduction des m\u00e9thodes informatiques pour leur \u00e9tude. A travers quelques exemples, nous montrerons comment ces m\u00e9thodes peuvent fournir des indices \u2014 plus objectifs que ceux \u00e9tablis sur quelques gravures s\u00e9lectionn\u00e9es \u2014 pour comparer les syst\u00e8mes symboliques de ces deux sites."
+    },
+    {
+        "title": "Experimental relativistic zero-knowledge proofs",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (25)",
+        "abstract": "Protecting secrets is a key challenge in our contemporary information-based era. In common situations, however, revealing secrets appears unavoidable, for instance, when identifying oneself in a bank to retrieve money. In turn, this may have highly undesirable consequences in the unlikely, yet not unrealistic, case where the bank's security gets compromised. This naturally raises the question of whether disclosing secrets is fundamentally necessary for identifying oneself, or more generally for proving a statement to be correct. Developments in computer science provide an elegant solution via the concept of zero-knowledge proofs: a prover can convince a verifier of the validity of a certain statement without facilitating the elaboration of a proof at all. In this work, we report the experimental realisation of such a zero-knowledge protocol involving two separated verifier-prover pairs. Security is enforced via the physical principle of special relativity, and no computational assumption (such as the existence of one-way functions) is required. Our implementation exclusively relies on off-the-shelf equipment and works at both short (60 m) and long distances (400 m) in about one second. This demonstrates the practical potential of multi-prover zero-knowledge protocols, promising for identification tasks and blockchain-based applications such as cryptocurrencies or smart contracts."
+    },
+    {
+        "title": "State Estimation of Power Flows for Smart Grids via Belief Propagation",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (38)",
+        "abstract": "Belief propagation is an algorithm that is known from statistical physics and computer science. It provides an efficient way of calculating marginals that involve large sums of products which are efficiently rearranged into nested products of sums to approximate the marginals. It allows a reliable estimation of the state and its variance of power grids that is needed for the control and forecast of power grid management. At prototypical examples of IEEE-grids we show that belief propagation not only scales linearly with the grid size for the state estimation itself, but also facilitates and accelerates the retrieval of missing data and allows an optimized positioning of measurement units. Based on belief propagation, we give a criterion for how to assess whether other algorithms, using only local information, are adequate for state estimation for a given grid. We also demonstrate how belief propagation can be utilized for coarse-graining power grids towards representations that reduce the computational effort when the coarse-grained version is integrated into a larger grid. It provides a criterion for partitioning power grids into areas in order to minimize the error of flow estimates between different areas."
+    },
+    {
+        "title": "Methodological recommendations to face an online semester in a catastrophic situation: the case of a computer science program during the COVID-19 lockdown",
+        "date": "December 2020",
+        "doi": "10.1109/SCCC51225.2020.9281214",
+        "conferance": "Conference: 2020 39th International Conference of the Chilean Computer Science Society (SCCC)",
+        "citations_count": null,
+        "reference_count": "References (20)",
+        "abstract": "The pandemic context forced most of the Higher Education Institutions, and therefore their faculties, to face a semester of teaching in an online mode. The universities defined general guidelines and strategies to try to guarantee a minimum quality of the process. However, the literature reports that, depending on its particularities, preparing a semester-long online course requires a design of several months. Therefore, each lecturer worked according to her experience, guidelines, and support she received: \"What could be done, was done.\" This article reports the teaching experience of the 1st semester 2020 of the Computer Science undergraduate program at the Universidad Cat\u00f3lica de Temuco. Some lecturers of this undergraduate program had previous experience in online training; hence they designed strategies that differed in teaching, evaluation, and interaction methodologies while using several technologies available to them. A sample of 115 of our students answered a questionnaire to assess the preferences and problems during this semester. The results show a heterogeneous set of clusters. However, they point to a constructivist asynchronous vision in a group of our students that prefer short videos uploaded by their professors, and the resources that, by their means, they find on the Internet, point towards a constructivist asynchronous vision in a group of our students. The results also allowed us to rescue good practices that help in proposing an emergency online teaching model that will guide the design of the second-semester courses."
+    },
+    {
+        "title": "Ci\u00eancia Da Computa\u00e7\u00e3o: Tecnologias Emergentes Em Computa\u00e7\u00e3o",
+        "date": "December 2020",
+        "doi": "10.37885/978-65-87196-55-8",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (161)",
+        "abstract": "Ci\u00eancia Da Computa\u00e7\u00e3o: Tecnologias Emergentes Em Computa\u00e7\u00e3o"
+    },
+    {
+        "title": "Methods of Information in Medicine",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (131)",
+        "abstract": "Abstract: Virtual reality (VR), as part of computer science, allows\ncomputer-based models of the real world to be generated, and provides\nhumans with a means to inieract with these models through new humancomputer\ninterfaces and, thus, to nearly realistically experience these\nmodels. This contribution explores the technical requirements for VR,\ndescribes technological advances and deficits, and analyzes the\nframework for future technological research and development. Although\nsome non-medical applications are discussed, this contribution focuses\nprimarily on medical applications of VR and outlines future prospects of\nmedical VR applications. Finally, possible hazards arising from the use of\nVR are discussed. The authors recommend an interdisciplinary approach\nto technology assessment of VR."
+    },
+    {
+        "title": "Simbionte -\u00c9tica da computa\u00e7\u00e3o Symbiont -Ethics of computing Simbionte -\u00c9tica de la computaci\u00f3n",
+        "date": "December 2020",
+        "doi": "10.33448/rsd-v9i11.11273",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (13)",
+        "abstract": "Resumo Neste trabalho se encontra uma conex\u00e3o entre a educa\u00e7\u00e3o matem\u00e1tica e a arquitetura do conhecimento da computa\u00e7\u00e3o, na no\u00e7\u00e3o de sistema formal. O que contamos aqui \u00e9 a hist\u00f3ria do fracasso do bloqueio da simbiose de sistemas de pensamento heterog\u00eaneos. Essa \u00e9 a hist\u00f3ria da computa\u00e7\u00e3o, como momento talvez culminante de um projeto de unifica\u00e7\u00e3o dos sistemas de pensamento. Partimos da transi\u00e7\u00e3o observ\u00e1vel entre a produ\u00e7\u00e3o de autoevid\u00eancia, conven\u00e7\u00e3o da matem\u00e1tica escolar cl\u00e1ssica, e a realiza\u00e7\u00e3o da m\u00e1quina de calcular. Num segundo momento caminhamos na dire\u00e7\u00e3o da constru\u00e7\u00e3o do conhecimento teorem\u00e1tico, que se prolonga na no\u00e7\u00e3o de m\u00e1quina configur\u00e1vel. Essa \u00e9 a experi\u00eancia comum dos sistemas computacionais. O trabalho ent\u00e3o se debru\u00e7a sobre a terceira etapa, que corresponde \u00e0 conex\u00e3o poss\u00edvel entre o ideal de formaliza\u00e7\u00e3o matem\u00e1tica e o conceito de linguagem computacional, que est\u00e1 na origem do conhecimento da ci\u00eancia da computa\u00e7\u00e3o, e que desemboca no \u00faltimo est\u00e1gio do percurso: o campo problem\u00e1tico dos sistemas autorreferentes, em que a tentativa de consubstanciar a recusa \u00e0 simbiose dos sistemas de pensamento heterog\u00eaneos entra em uma deriva que a far\u00e1 fracassar. O desenvolvimento conceitual assim engendrado acaba funcionando como conex\u00e3o com o exterior do pensamento. Um exterior que imp\u00f5e a considera\u00e7\u00e3o de que, \u00e0 semelhan\u00e7a da psican\u00e1lise, o que resta do fracasso da computa\u00e7\u00e3o como disciplina \u00e9 uma \u00e9tica. Palavras-chave: Experi\u00eancia computacional; Filosofia da computa\u00e7\u00e3o; Ci\u00eancia situada."
+    },
+    {
+        "title": "Staying Safe in COVID-19",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References:",
+        "abstract": "We protect the community. We protect ourselves. We decongest the health system. We stay safe in COVID-19. One of the many responses to the global call against the world pandemic of COVID-19 resulted in \u201cSafe in COVID-19\u201d, an electronic platform developed by the Institute of Computer Science of the Foundation for Research and Technology \u2013 Hellas (FORTH-ICS), which is intended for tracing suspect, probable and confirmed incidence cases."
+    },
+    {
+        "title": "Self-Supervised Learning for Visual Summary Identification in Scientific Publications",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (30)",
+        "abstract": "Providing visual summaries of scientific publications can increase information access for readers and thereby help deal with the exponential growth in the number of scientific publications. Nonetheless, efforts in providing visual publication summaries have been few and fart apart, primarily focusing on the biomedical domain. This is primarily because of the limited availability of annotated gold standards, which hampers the application of robust and high-performing supervised learning techniques. To address these problems we create a new benchmark dataset for selecting figures to serve as visual summaries of publications based on their abstracts, covering several domains in computer science. Moreover, we develop a self-supervised learning approach, based on heuristic matching of inline references to figures with figure captions. Experiments in both biomedical and computer science domains show that our model is able to outperform the state of the art despite being self-supervised and therefore not relying on any annotated training data."
+    },
+    {
+        "title": "TechTexC: Classification of Technical Texts using Convolution and Bidirectional Long Short Term Memory Network",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (10)",
+        "abstract": "This paper illustrates the details description of technical text classification system and its results that developed as a part of participation in the shared task TechDofication 2020. The shared task consists of two sub-tasks: (i) first task identify the coarse-grained technical domain of given text in a specified language and (ii) the second task classify a text of computer science domain into fine-grained sub-domains. A classification system (called 'TechTexC') is developed to perform the classification task using three techniques: convolution neural network (CNN), bidirectional long short term memory (BiLSTM) network, and combined CNN with BiLSTM. Results show that CNN with BiLSTM model outperforms the other techniques concerning task-1 of sub-tasks (a, b, c and g) and task-2a. This combined model obtained f1 scores of 82.63 (sub-task a), 81.95 (sub-task b), 82.39 (sub-task c), 84.37 (sub-task g), and 67.44 (task-2a) on the development dataset. Moreover, in the case of test set, the combined CNN with BiLSTM approach achieved that higher accuracy for the subtasks 1a (70.76%), 1b (79.97%), 1c (65.45%), 1g (49.23%) and 2a (70.14%)."
+    },
+    {
+        "title": "O_n$ is an $n$-MCFL",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (22)",
+        "abstract": "Commutative properties in formal languages pose problems at the frontier of computer science, computational linguistics and computational group theory. A prominent problem of this kind is the position of the language $O_n$, the language that contains the same number of letters $a_i$ and $\\bar a_i$ with $1\\leq i\\leq n$, in the known classes of formal languages. It has recently been shown that $O_n$ is a Multiple Context-Free Language (MCFL). However the more precise conjecture of Nederhof that $O_n$ is an MCFL of dimension $n$ was left open. We present two proofs of this conjecture, both relying on tools from algebraic topology. On our way, we prove a variant of the necklace splitting theorem."
+    },
+    {
+        "title": "Analysis of co-authorship networks among Brazilian graduate programs in computer science",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (36)",
+        "abstract": "The growth and popularization of platforms on scientific production have been the subject of several studies, producing relevant analyses of coauthorship behavior among groups of researchers. Researchers and their scientific productions can be analyzed as coauthorship social networks, so researchers are linked through common publications. In this context, coauthoring networks can be analyzed to find patterns that can describe or characterize them. This work presents the analysis and characterization of co-authorship networks of academic Brazilian graduate programs in computer science. To this end, data from the curricula of Brazilian researchers were collected and modeled as coauthoring networks among the graduate programs that researchers participate in. Each network topology was analyzed regarding complex network measurements and three qualitative indices that evaluate the publications quality. In addition, the coauthorship networks of the graduate programs were characterized in relation to the evaluation received by CAPES, which attributes a qualitative grade to the graduate programs in Brazil. The results indicate some of the most relevant topological measures for the programs characterization and evaluate at different qualitative rates and indicate a pattern of the graduate programs best evaluated by CAPES."
+    },
+    {
+        "title": "Comparative Study of Robotics Curricula",
+        "date": "December 2020",
+        "doi": "10.1109/TE.2020.3041667",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (16)",
+        "abstract": "Contribution: The information described in this study provides a starting point for discussing an effective robotics curriculum offered by any engineering university or institute. Background: Robotics is a multidisciplinary field that includes mechanical engineering, electrical and electronic engineering, and computer science. Several universities have established departments of robotics to teach their students robotics education; however, a comprehensive curriculum to deliver robotics education has not yet been fully developed. Research Questions: What are the significant component courses offered by existing departments of robotics? Methodology: This article investigates component courses among departments of robotics through a title-based aggregation of existing courses and textual analyses. Findings: From a title-based aggregation of robotics curricula from 19 departments established by 2018, control engineering, programming, technical drawing/design, and electronic engineering/electronic circuits were found to be the core courses. From textual analyses of the curricula, robotics departments' course titles were similar to those of mechanical engineering departments."
+    },
+    {
+        "title": "AUTONOMOUS LUGGAGE CARRIER HEXAPOD",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (10)",
+        "abstract": "In the last few years, there has been a lot of advancements in Robotics and Computer Science, to an extent that Robotic Devices are now included in our daily life and help us in our day to day activities. The more important thing is that this is not the peak, this is just the beginning, there is a lot of research going on in this field with the aim of making our quality of life better. This paper presents a similar project undertaken to help elderly people in carrying their luggage around the airport terminal. This paper presents the methodology and algorithms used to develop the device. The prototype has been tested in open spaces, while simulations have been done to analyze its scalability to accommodate multiple robots coexisting."
+    },
+    {
+        "title": "Yefimov E.LENA. RU-EN AE",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (6)",
+        "abstract": "Some people wrongly believe that A. Turing\u2019s works that underlie all modern computer science never discussed \u201cphysical\u201d robots. This is not so, since Turing did speak about such machines, though making a reservation that this discussion was still premature. In particular, in his 1948 report [8], he suggested that a physical intelligent machine equipped with motors, cameras and loudspeakers, when wandering through the fields of England, would present \u201cthe danger to the ordinary citizen would be serious.\u201d [8, ]. Due to this imperfection of technology in the field of knowledge that we now call robotics, the methodology that he proposed was based on human speech, or rather on text. Other natural human skills were too difficult to implement, while the exchange of cues via written messages was much more accessible for engineering implementation in Turing\u2019s time. Nevertheless, since then, the progress of computer technology has taken forms that the founder of artificial intelligence could not have foreseen."
+    },
+    {
+        "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+        "date": "December 2020",
+        "doi": "10.1038/s41586-020-03051-4",
+        "conferance": null,
+        "citations_count": "Citations (22)",
+        "reference_count": "References (52)",
+        "abstract": "Constructing agents with planning capabilities has long been one of the main challenges in the pursuit of artificial intelligence. Tree-based planning methods have enjoyed huge success in challenging domains, such as chess\u00b9 and Go\u00b2, where a perfect simulator is available. However, in real-world problems, the dynamics governing the environment are often complex and unknown. Here we present the MuZero algorithm, which, by combining a tree-based search with a learned model, achieves superhuman performance in a range of challenging and visually complex domains, without any knowledge of their underlying dynamics. The MuZero algorithm learns an iterable model that produces predictions relevant to planning: the action-selection policy, the value function and the reward. When evaluated on 57 different Atari games\u00b3\u2014the canonical video game environment for testing artificial intelligence techniques, in which model-based planning approaches have historically struggled\u2074\u2014the MuZero algorithm achieved state-of-the-art performance. When evaluated on Go, chess and shogi\u2014canonical environments for high-performance planning\u2014the MuZero algorithm matched, without any knowledge of the game dynamics, the superhuman performance of the AlphaZero algorithm\u2075 that was supplied with the rules of the game."
+    },
+    {
+        "title": "Quantum-Classical Mechanics: Principles, Applications, and Prospects (plenary presentation) _International Webinar on Advances in Physics, Chemistry, Mathematics, Computer Sciences & Biological Sciences_18 - 20 December 2020",
+        "date": "December 2020",
+        "doi": "10.13140/RG.2.2.15139.48168",
+        "conferance": "Conference: CONIAPS XXVI",
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "Quantum-classical electron as organizing principle in nature"
+    },
+    {
+        "title": "A Machine-Learning based Approach to Support Academic Decision-Making at Higher Educational Institutions",
+        "date": "December 2020",
+        "doi": "10.1109/ISNCC49221.2020.9297177",
+        "conferance": "Conference: International Symposium on Networks, Computers and Communications (ISNCC-2020)",
+        "citations_count": null,
+        "reference_count": "References (21)",
+        "abstract": "Taking appropriate decisions in the academic processes at a university has a great impact in improving the quality of education and can have an important benefit for students, faculty members, and the entire academic community. In this paper, we propose a decision support solution providing accurate analysis, better decision support, and reporting and planning capability to assist decision-makers in order to enhance the quality of educational processes. To achieve this goal, a set of machine learning is used. Experiments are conducted on real data describing the College of Computer Science and Engineering (CCSE) at Taibah University in Saudi Arabia. Results show that we can predict graduation rates in a real case study to support decision-making. In addition, a comparison between four techniques of machine learning namely Support Vector Machine, Na\u00efve Bayes, Decision Tree, and Random Forest is held using accuracy, recall, precision, and F-measure."
+    },
+    {
+        "title": "International Journal of Advance Research in Computer Science and Management Studies Development of Simulator for Simple Command Post Integrated Data Display using Assurance Case",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (5)",
+        "abstract": "Software design for mission critical systems is challenging and often needs utmost care in ensuring all the essential requirements of system are met without any compromise on quality and reliability of system deliverables. Present paper has explored an approach of developing software for command post integrated data display Simulator based on Assurance Case driven development. This paper has systematically illustrated how software development for a software system can be carried out using Assurance Cases. The developed code was tested using rigorous test cases to ensure that the goals and sub-goals are met with adequate reliability and safety and thus the overall simulator goal. The design was further verified with collected artifacts through actual testing to ensure that the developed Simulator is working as per the stated requirements under all specified operating conditions. We concluded with discussion of important results and suggestions for addressing the problems we faced while developing the Simulator software using Assurance Case."
+    },
+    {
+        "title": "Free Computer Science Project Topics and Materials in PDF",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "Free computer science project topics and research materials in PDF download for final year undergraduate and postgraduate students 2021. NCE, BSC, MSC, PGD, and Ph.D."
+    },
+    {
+        "title": "Some 2-Class Groups Related to the Narrow 2-Class Field of Some Real Quadratic Number Fields--A Preliminary Hueristic Investigation--Corrected and Updated",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References",
+        "abstract": "This is a corrected and updated version of the article that was published in Pinnacle Mathematics and Computer Science Journal in 2019. See my \"Narrow 2-Class Field Heuristic Figures\" article on Research Gate for the figures in the present article."
+    },
+    {
+        "title": "A Survey on Crop recommendation System: Techniques, Challenges",
+        "date": "December 2020",
+        "doi": null,
+        "conferance": "Conference: \u201cDisruptive Technology for Engineering and Scientific Applications",
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "Agriculture is the cornerstone of a developing economy like India, because the income depends on agriculture for the majority of its population. Traditional farming approaches are still in existence, thus giving farmers minimal crop yields in the end which are less beneficial to farmers. Therefore, in order to maximize crop yields for a given input, we present analysis of different methods which will be useful in developing a smart farming recommendation system. Data mining is an important field of computer science which can be applied very effectively to the agricultural sector. The farmers are facing the difficulty of choosing the right crop to cultivate in right time which in turn reduces the crop yield and profit for agricultural stakeholders. This paper studies various techniques used for crop yield prediction and crop recommendation."
+    },
+    {
+        "title": "ASSISTECH: An Accidental Journey into Assistive Technology",
+        "date": "January 2021",
+        "doi": "10.1007/978-3-030-47487-4_5",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (17)",
+        "abstract": "ASSISTECH is an inter-disciplinary laboratory located in Amar Nath Sashi Khosla School of Information Technology and is born out of the initial work of faculty and students in Department of Computer Science and Engineering. ASSISTECH has achieved some success in its 12 + years of existence in not only designing affordable products and solutions for mobility and education of visually impaired but also in building an ecosystem of translational research and dissemination to reach the end users. It is not a journey of any major technological breakthrough but of perseverance in creating an ecosystem for delivery and reaching out and connecting to people with passion to make a difference in this domain. In this article I have tried to capture this unusual journey of direct societal connect and impact\u2014not very common in an academic Institution."
+    },
+    {
+        "title": "Algorithms as a Basis of Modern Applied Mathematics",
+        "date": "January 2021",
+        "doi": "10.1007/978-3-030-61334-1",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "This book offers a self-contained guide to advanced algorithms and their applications in various fields of science. Gathering contributions by authoritative researchers in the field of mathematics, statistics and computer science, it aims at offering a comprehensive and up-to-date view of algorithms, including the theory behind them, as well as practical considerations, current limitations and solutions. It covers applications in energy management, decision making, computer networks, materials science, mechanics and process optimization. It offers an integrated and timely guide to important algorithms, and represents a valuable reference resource for graduate students and researchers in various fields of applied mathematics, statistics and engineering."
+    },
+    {
+        "title": "Improving girls\u2019 perception of computer science as a viable career option through game playing and design: Lessons from a systematic literature review",
+        "date": "January 2021",
+        "doi": "10.1016/j.entcom.2020.100387",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (105)",
+        "abstract": "The objective of exposing girls to Computer Science as a career option has led to research directed towards gaming activities for girls. These activities include both game play and game design. Research about gaming activities for increasing girls\u2019 interest in computer science has gained much attention over the past few years and has resulted in a number of contributions. We follow up with an overview of the status of research through a Systematic Literature Review. We investigate the relation between the various game playing or designing activities and their impact on girls\u2019 perception of Computer Science as a career choice. We further present the design consideration for the games and related activities to potentially improve the perception of girls towards a Computer Science career. The applied method is a Systematic Literature Review through which we investigate which contributions were made, which knowledge areas were most explored, and which research facets have been used. We identify 25 papers to distill a common understanding of the state-of-the-art. Specifically, we investigate the effects that the game play/design activities had on girls\u2019 perception about Computer Science; and what are the key design factors to be kept in mind while designing a serious game to improve girls\u2019 perception about Computer Science. The results of this systematic literature review show that game playing or designing could indeed improve how girls perceive having a career in CS. The key aspects that such activities require are personalizing, opportunity for collaboration and the presence of a female lead character."
+    },
+    {
+        "title": "Peter Marwedel and the Department of Computer Science of the TU Dortmund University",
+        "date": "January 2021",
+        "doi": "10.1007/978-3-030-47487-4_1",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "A seventieth birthday is an appropriate occasion to look back on the life path so far. In the following, this is done for Professor Peter Marwedel from the perspective of the Department of Computer Science of TU Dortmund University, where he spent the essential time of his professional life."
+    },
+    {
+        "title": "Valid attacks in argumentation frameworks with recursive attacks",
+        "date": "February 2021",
+        "doi": "10.1007/s10472-020-09693-4",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (25)",
+        "abstract": "The purpose of this work is to study a generalisation of Dung\u2019s abstract argumentation frameworks that allows representing recursive attacks, that is, a class of attacks whose targets are other attacks. We do this by developing a theory of argumentation where the classic role of attacks in defeating arguments is replaced by a subset of them, which is \u201cextension-dependent\u201d and which, intuitively, represents a set of \u201cvalid attacks\u201d with respect to the extension. The studied theory displays a conservative generalisation of Dung\u2019s semantics (complete, preferred, stable and grounded) and also of its principles (conflict-freeness, acceptability and admissibility). Furthermore, despite its conceptual differences, we are also able to show that our theory agrees with the AFRA interpretation of recursive attacks for the complete, preferred, stable and grounded semantics and with a recent flattening method."
+    },
+    {
+        "title": "A review of human skin detection applications based on image processing",
+        "date": "February 2021",
+        "doi": "10.11591/eei.v10i1.2497",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (77)",
+        "abstract": "In computer science, virtual image processing is the use of a digital computer to manipulate digital images through an algorithm for many applications. To begin with a new research topic, the must trend application that gets many requests to develop should know. Therefore, many applications based on human skin and human life are reviewed in this article, such as detection, classification, blocking, cryptography, identification, localization, steganography, segmentation, tracking, and recognition. In this article, the published articles with the topic of human skin-based image processing are investigated. The international publishers, such as Springer, IEEE, arXiv, and Elsevier are selected. The searching is implemented with the duration criteria of 2015-2019. It noted that human skin detection and recognition are the most repetitive articles with 43% and 28.5%, respectively of the total number of the investigated articles. The usage of human skin models is being widely used in the image processing of various applications. Keywords: Applications of human skin Dataset Skin color modeling Skin detection This is an open access article under the CC BY-SA license."
+    },
+    {
+        "title": "Nonlinear Control Strategies for a UAV Carrying a Load with Swing Attenuation",
+        "date": "March 2021",
+        "doi": "10.1016/j.apm.2020.09.027",
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (37)",
+        "abstract": "Two novel nonlinear control schemes for Unmanned Aerial Vehicles (UAV) carrying a load and their comparative results are presented in this paper. The goal is to carry the load to a desired position, with oscillation attenuation along the trajectory. The proposed control structures are hierarchical schemes consisting of nonlinear controllers to stabilize the vehicle translational movements and the payload swing together with a well-known state-dependent differential Riccati equation controller to stabilize the rotational dynamics. We present new methodologies where two nonlinear controllers are proposed to obtain precise aerial vehicle positioning and efficient load oscillation reduction by exploiting the natural coupling between the horizontal quadcopter movement and the payload oscillation. It is shown that asymptotic stability can be guaranteed by the use of the Lyapunov approach and La Salle\u2019s invariance principle. Numerical experiments were carried out to validate the nonlinear control behaviors where the results show improvements with respect to a strategy from the literature."
+    },
+    {
+        "title": "The Role of Race and Gender in Teaching Evaluation of Computer Science Professors: A Large Scale Analysis on RateMyProfessor Data",
+        "date": "March 2021",
+        "doi": null,
+        "conferance": null,
+        "citations_count": null,
+        "reference_count": "References (41)",
+        "abstract": "Recently, Computer Science (CS) education has experienced a renewed interest, driven by the demand in the fast-changing job market. This renewed interest created an uptick of enrolment in computer science courses. Increased number of students search for information about CS courses and professors. Often times, students turn to a professor's profile on online sites, e.g. RateMyProfes-sor.com (RMP), to read feedback and assessments made by other students. Student Evaluations of Teaching (SETs), conducted online or on paper, are widely used to assess and improve the teaching quality of professors, and to provide critical assessment of the teaching material and content. This paper studies the role of race and gender of computer science professors on their teaching evaluation by analyzing the publicly available data of over 39,000 CS professors on RateMyProfessor. We found that women are generally rated lower then men in overall teaching quality. They are also perceived lower in personality-related student feedback ratings, i.e. they perceived less humorous, and less inspirational. We also found that Asian professors are perceived to be tough graders and lecture heavy. They are also perceived to be more difficult in general. CCS CONCEPTS \u2022 Social and professional topics \u2192 Student assessment; Computer science education; Software engineering education."
+    },
+    {
+        "title": "First International Conference on Artificial Intelligence & Data Analytics (CAIDA 2021)",
+        "date": "April 2021",
+        "doi": null,
+        "conferance": "Conference: First IEEE Virtual International Conference on Artificial Intelligence & Data Analytics (CAIDA) 2021",
+        "citations_count": null,
+        "reference_count": null,
+        "abstract": "First Virtual International Conference on Artificial Intelligence & Data Analytics (CAIDA) 2021 provides an opportunity for national and international researchers to present their novel research findings and exchange information with the research community.CAIDA 2021 will bring along specialists, leading researchers, scholars, scientists, professors from fields of computer science, technology, engineering science, business, education and alternative connected areas to act and exchange ideas concerning the state of the art technologies associated with artificial intelligence & data analytics.CAIDA will comprise of oral sessions, keynote speeches, technical workshops, panel discussions, Q&A sessions, best regular paper, best student paper & poster awards, e-Poster shows, video shows by the specialists in AI & ML domain.\nConference website: https://aidalabpsu.com/caida/"
+    }
+]

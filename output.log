@@ -1,0 +1,160 @@
+2021-01-03 03:45:40 [scrapy.utils.log] INFO: Scrapy 2.4.1 started (bot: researchgate)
+2021-01-03 03:45:40 [scrapy.utils.log] INFO: Versions: lxml 4.6.2.0, libxml2 2.9.5, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 20.3.0, Python 3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)], pyOpenSSL 20.0.1 (OpenSSL 1.1.1i  8 Dec 2020), cryptography 3.3.1, Platform Windows-10-10.0.19041-SP0
+2021-01-03 03:45:40 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.selectreactor.SelectReactor
+2021-01-03 03:45:40 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'researchgate',
+ 'LOG_FILE': 'output.log',
+ 'NEWSPIDER_MODULE': 'researchgate.spiders',
+ 'SPIDER_MODULES': ['researchgate.spiders'],
+ 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+               '(KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'}
+2021-01-03 03:45:40 [scrapy.extensions.telnet] INFO: Telnet Password: 7721c929681a5e3f
+2021-01-03 03:45:40 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2021-01-03 03:45:41 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy_proxy_pool.middlewares.ProxyPoolMiddleware',
+ 'scrapy_proxy_pool.middlewares.BanDetectionMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2021-01-03 03:45:41 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2021-01-03 03:45:41 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2021-01-03 03:45:41 [scrapy.core.engine] INFO: Spider opened
+2021-01-03 03:45:41 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-01-03 03:45:41 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2021-01-03 03:45:41 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.us-proxy.org:443
+2021-01-03 03:45:41 [urllib3.connectionpool] DEBUG: https://www.us-proxy.org:443 "GET / HTTP/1.1" 200 None
+2021-01-03 03:45:42 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net:443
+2021-01-03 03:45:42 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /uk-proxy.html HTTP/1.1" 200 None
+2021-01-03 03:45:43 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net:443
+2021-01-03 03:45:43 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET /anonymous-proxy.html HTTP/1.1" 200 None
+2021-01-03 03:45:43 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.proxy-daily.com:80
+2021-01-03 03:45:43 [urllib3.connectionpool] DEBUG: http://www.proxy-daily.com:80 "GET / HTTP/1.1" 301 None
+2021-01-03 03:45:43 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.proxy-daily.com:443
+2021-01-03 03:45:43 [urllib3.connectionpool] DEBUG: https://www.proxy-daily.com:443 "GET / HTTP/1.1" 301 None
+2021-01-03 03:45:44 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): proxy-daily.com:443
+2021-01-03 03:45:44 [urllib3.connectionpool] DEBUG: https://proxy-daily.com:443 "GET / HTTP/1.1" 200 None
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-JP Japanese prober hit error at byte 3652
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: GB2312 Chinese prober hit error at byte 3654
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-KR Korean prober hit error at byte 3652
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: CP949 Korean prober hit error at byte 3652
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: Big5 Chinese prober hit error at byte 3654
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-TW Taiwan prober hit error at byte 3652
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.87625
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-JP not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: GB2312 not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-KR not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: CP949 not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: Big5 not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-TW not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: windows-1251 Russian confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: KOI8-R Russian confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: ISO-8859-5 Russian confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: MacCyrillic Russian confidence = 0.0
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: IBM866 Russian confidence = 0.0
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: IBM855 Russian confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: ISO-8859-7 Greek confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: windows-1253 Greek confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: ISO-8859-5 Bulgarian confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: windows-1251 Bulgarian confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: TIS-620 Thai confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: ISO-8859-9 Turkish confidence = 0.5268839230521987
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.0
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: windows-1255 Hebrew confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: utf-8  confidence = 0.87625
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: SHIFT_JIS Japanese confidence = 0.01
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-JP not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: GB2312 not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-KR not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: CP949 not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: Big5 not active
+2021-01-03 03:45:44 [chardet.charsetprober] DEBUG: EUC-TW not active
+2021-01-03 03:45:44 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.sslproxies.org:443
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: https://www.sslproxies.org:443 "GET / HTTP/1.1" 200 None
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): www.free-proxy-list.net:80
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: http://www.free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): www.free-proxy-list.net:443
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: https://www.free-proxy-list.net:443 "GET / HTTP/1.1" 301 None
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: Starting new HTTP connection (1): free-proxy-list.net:80
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: http://free-proxy-list.net:80 "GET / HTTP/1.1" 301 None
+2021-01-03 03:45:45 [urllib3.connectionpool] DEBUG: Starting new HTTPS connection (1): free-proxy-list.net:443
+2021-01-03 03:45:46 [urllib3.connectionpool] DEBUG: https://free-proxy-list.net:443 "GET / HTTP/1.1" 200 None
+2021-01-03 03:45:46 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://149.28.213.10:3128
+2021-01-03 03:46:07 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://researchgate.net/topic/Computer-Science/publications> with another proxy (failed 1 times, max retries: 5)
+2021-01-03 03:46:07 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://91.188.247.175:8085
+2021-01-03 03:46:28 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://researchgate.net/topic/Computer-Science/publications> with another proxy (failed 2 times, max retries: 5)
+2021-01-03 03:46:28 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://13.66.249.59:3128
+2021-01-03 03:46:41 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-01-03 03:46:49 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://researchgate.net/topic/Computer-Science/publications> with another proxy (failed 3 times, max retries: 5)
+2021-01-03 03:46:49 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://74.92.2.70:80
+2021-01-03 03:47:02 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <GET https://www.researchgate.net/topic/Computer-Science/publications> from <GET https://researchgate.net/topic/Computer-Science/publications>
+2021-01-03 03:47:02 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://23.108.42.239:8118
+2021-01-03 03:47:23 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.researchgate.net/topic/Computer-Science/publications> with another proxy (failed 4 times, max retries: 5)
+2021-01-03 03:47:23 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://93.177.116.155:8085
+2021-01-03 03:47:41 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2021-01-03 03:47:44 [scrapy_proxy_pool.middlewares] DEBUG: Retrying <GET https://www.researchgate.net/topic/Computer-Science/publications> with another proxy (failed 5 times, max retries: 5)
+2021-01-03 03:47:44 [scrapy_proxy_pool.middlewares] DEBUG: [ProxyChoosen] http://107.172.239.49:3128
+2021-01-03 03:48:05 [scrapy_proxy_pool.middlewares] DEBUG: Gave up retrying <GET https://www.researchgate.net/topic/Computer-Science/publications> (failed 6 times with different proxies)
+2021-01-03 03:48:05 [scrapy_proxy_pool.middlewares] DEBUG: Try with host ip
+2021-01-03 03:48:06 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.researchgate.net/topic/Computer-Science/publications>
+Traceback (most recent call last):
+  File "c:\users\melnadry\desktop\projects\researchgate\env\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+StopIteration: <200 https://www.researchgate.net/topic/Computer-Science/publications>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\melnadry\desktop\projects\researchgate\env\lib\site-packages\twisted\internet\defer.py", line 1418, in _inlineCallbacks
+    result = g.send(result)
+  File "c:\users\melnadry\desktop\projects\researchgate\env\lib\site-packages\scrapy\core\downloader\middleware.py", line 55, in process_response
+    response = yield deferred_from_coro(method(request=request, response=response, spider=spider))
+  File "c:\users\melnadry\desktop\projects\researchgate\env\lib\site-packages\scrapy_proxy_pool\middlewares.py", line 287, in process_response
+    ban = is_ban(request, response)
+  File "c:\users\melnadry\desktop\projects\researchgate\env\lib\site-packages\scrapy_proxy_pool\policy.py", line 15, in response_is_ban
+    if self.BANNED_PATTERN.search(response.text):
+  File "c:\users\melnadry\desktop\projects\researchgate\env\lib\site-packages\scrapy\http\response\__init__.py", line 108, in text
+    raise AttributeError("Response content isn't text")
+AttributeError: Response content isn't text
+2021-01-03 03:48:06 [scrapy.core.engine] INFO: Closing spider (finished)
+2021-01-03 03:48:06 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'bans/error/twisted.internet.error.TCPTimedOutError': 6,
+ 'downloader/exception_count': 6,
+ 'downloader/exception_type_count/twisted.internet.error.TCPTimedOutError': 6,
+ 'downloader/request_bytes': 2664,
+ 'downloader/request_count': 8,
+ 'downloader/request_method_count/GET': 8,
+ 'downloader/response_bytes': 120959,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 145.523016,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 1, 3, 1, 48, 6, 544473),
+ 'log_count/DEBUG': 74,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 12,
+ 'scheduler/dequeued': 8,
+ 'scheduler/dequeued/memory': 8,
+ 'scheduler/enqueued': 8,
+ 'scheduler/enqueued/memory': 8,
+ 'start_time': datetime.datetime(2021, 1, 3, 1, 45, 41, 21457)}
+2021-01-03 03:48:06 [scrapy.core.engine] INFO: Spider closed (finished)
