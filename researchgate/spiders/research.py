@@ -12,7 +12,7 @@ class ResearchSpider(scrapy.Spider):
             header = item.xpath('.//div[@class="nova-v-publication-item__stack-item"]//div[@itemprop="headline"]/a/text()').extract_first()
             type_1 = item.xpath('.//span[@priority="secondary"]/text()').extract_first()  
             date = item.xpath('.//div[@class="nova-v-publication-item__meta-right"]/ul/li/span/text()').extract_first()
-            download_url = item.xpath('.//a[contains(.,"Download full-text")]/@href').extract_first()
+            download_url = item.xpath(  ).extract_first()
             absolute_download_url = f'https://www.researchgate.net/{download_url}'
             abstract = item.xpath('.//div[@class="nova-e-text nova-e-text--size-m nova-e-text--family-sans-serif nova-e-text--spacing-none nova-e-text--color-inherit nova-v-publication-item__description"]/text()').extract_first()
             yield{

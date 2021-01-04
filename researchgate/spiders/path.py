@@ -1,5 +1,7 @@
 BASE_URL = "https://www.researchgate.net/"
 
+DOI_LINK = "https://www.doi.org/"
+
 ITEM_URL = "//div[@class='nova-v-publication-item__stack-item']//div[@itemprop='headline']/a/@href"
 
 # request token
@@ -13,6 +15,9 @@ CONFERENCE = "//li[contains(text(),'Conference:')]/text()"
 CITATIONS_COUNT = "//div[contains(text(),'Citations')]/text()"
 REFERENCES_COUNT = "//div[contains(text(),'References')]/text()"
 ABSTRACT = "//div[@itemprop='description']//text()"
+DOWNLOAD_LINK = "//meta[@property='citation_pdf_url']/@content"
+# DOWNLOAD_LENK = "//a[contains(@data-testid,'research-header-cta-download-fulltext')]/@href"
+# DOWNLOAD_BASE_LINK = 
 
 
 # references section
