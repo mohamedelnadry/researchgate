@@ -23,16 +23,6 @@ class ResearchPageSpider(scrapy.Spider):
         citations_count = response.xpath(path.CITATIONS_COUNT).extract_first()
         reference_count = response.xpath(path.REFERENCES_COUNT).extract_first()
         abstract = response.xpath(path.ABSTRACT).extract_first()
-        yield{
-            'title':title,
-            'date':date,
-            'doi':doi,
-            'conferance':conferance,
-            'citations_count':citations_count,
-            'reference_count':reference_count,
-            'abstract':abstract,
-        }
-    def reference(self,response):
         reference_page = response.xpath(path.REFERENCES)
         for ref in reference_page:
             reference_title = ref.xpath(path.REFERENCES_TITLE).extract_first()
@@ -47,6 +37,30 @@ class ResearchPageSpider(scrapy.Spider):
                 'reference_date':reference_date,
                 'reference_abstract':reference_abstract
                 }
+        yield{
+            'title':title,
+            'date':date,
+            'doi':doi,
+            'conferance':conferance,
+            'citations_count':citations_count,
+            'reference_count':reference_count,
+            'abstract':abstract,
+        }
+    # def reference(self,response):
+    #     reference_page = response.xpath(path.REFERENCES)
+    #     for ref in reference_page:
+    #         reference_title = ref.xpath(path.REFERENCES_TITLE).extract_first()
+    #         reference_link = ref.xpath(path.REFERENCES_LINK).extract_first()
+    #         reference_type = ref.xpath(path.REFERENCES_TYPE).extract_first()
+    #         reference_date =ref.xpath(path.REFERENCES_DATE).extract_first()
+    #         reference_abstract = ref.xpath(path.REFERENCES_ABSTRACT).extract_first()
+    #         yield {
+    #             'reference_title':reference_title,
+    #             'reference_link':reference_link,
+    #             'reference_type':reference_type,
+    #             'reference_date':reference_date,
+    #             'reference_abstract':reference_abstract
+    #             }
 
 
 
