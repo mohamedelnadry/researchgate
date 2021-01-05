@@ -1,0 +1,85 @@
+[
+    {
+        "title": "An Agile-Based Integrated Framework for Mobile Application Development Considering Ilities",
+        "date": "2020/04/14",
+        "doi": "10.1109/ACCESS.2020.2987882",
+        "doi_url": "https://www.doi.org/10.1109/ACCESS.2020.2987882",
+        "conferance": null,
+        "citations_count": 0,
+        "reference_count": 22,
+        "download_url": "https://www.researchgate.net/publication/340643740_An_Agile-Based_Integrated_Framework_for_Mobile_Application_Development_Considering_Ilities/fulltext/5e9677c0a6fdcca789189d12/An-Agile-Based-Integrated-Framework-for-Mobile-Application-Development-Considering-Ilities.pdf",
+        "url": "https://www.researchgate.net/publication/340643740_An_Agile-Based_Integrated_Framework_for_Mobile_Application_Development_Considering_Ilities",
+        "abstract": "The development of mobile apps during the last decade has had a significant increase in its share of the software market. While there are specific characteristics that separate it from traditional software development, there is a lack of guidance on issues encountered during the mobile software development process. With the aim of defining a mobile application development framework that considers the specific characteristics of developing mobile apps, we started by carrying out a systematic mapping study of the software development process for mobile applications, then we administered a survey and completed a qualitative study with industry experts. These studies allowed us to identify the main trends in the software process for mobile apps, and to uncover the main challenges for app development. We have organized the findings in a framework that integrates the specific challenges of mobile development, which we call Mobile Ilities, with software development activities that are linked through an agile process. The results of early tests carried out with computer science students are encouraging. Our proposal has served as a guide for novice developers throughout the process of creating a final product, combining the existing knowledge of developers about Scrum with the specific characteristics of mobile development, and providing mechanisms to link these characteristics with the elements of the development process.",
+        "reference": [
+            {
+                "reference_title": "Software Engineering Body of Knowledge (SWEBOK Guide)",
+                "reference_link": "https://www.researchgate.net/publication/342364539_Software_Engineering_Body_of_Knowledge_SWEBOK_Guide",
+                "reference_type": "Presentation",
+                "reference_date": "Sep 2010",
+                "reference_abstract": null
+            },
+            {
+                "reference_title": "Mobile application development process: A practical experience",
+                "reference_link": "https://www.researchgate.net/publication/318019805_Mobile_application_development_process_A_practical_experience",
+                "reference_type": "Conference Paper",
+                "reference_date": "Jun 2017",
+                "reference_abstract": "Nowadays there is an increasing interest in mobile application development. However, developers often disregard, or at least significantly adapt, existing software development processes to suit their purpose, given the existing specific constraints. Such adjustments can introduce variations and new trends in existing processes that in many occasions are not shared with the scientific community since there is no official documentation, thus justifying further research. In this paper, we present a study and characterization of current mobile application development processes based on a practical experience. We consider a set of real case studies to investigate the current development processes for mobile applications used by software development companies, as well as by independent developers. The result of the present study is the identification of mobile software development processes, namely agile approaches, and also of shortcomings in current methodologies applied in industry and academy, namely the lack of informed and experienced resources to develop mobile apps."
+            },
+            {
+                "reference_title": "Combining Challenge-Based Learning and Scrum Framework for Mobile Application Development",
+                "reference_link": "https://www.researchgate.net/publication/279750493_Combining_Challenge-Based_Learning_and_Scrum_Framework_for_Mobile_Application_Development",
+                "reference_type": "Conference Paper",
+                "reference_date": "Jul 2015",
+                "reference_abstract": "The market for mobile applications has been growing dramatically, as has the complexity of the applications and the speed of the development process. These changes require a rethinking of the development process and of how developers are trained. In order to better prepare faculty and students for the emerging mobile application market, this study presents a new learning and software development framework that combines Agile methodologies with the Challenge-Based Learning (CBL) framework. CBL provides a student-centered learning framework that mirrors the modern workplace. Agile methodologies address the changing landscape of mobile development environments. A combination of the CBL learning framework and Agile methodologies can better prepare students for the development market. This paper presents an empirical study applying CBL and Scrum in a mobile application development course evaluated through a series of post surveys. The results indicate that a teaching and learning environment based on practical experience combining the CBL framework with the Scrum process is an effective model to promptly teach undergraduates how to be successful mobile application developers."
+            },
+            {
+                "reference_title": "Software assurance practices for mobile applications: A survey of the state of the art",
+                "reference_link": "https://www.researchgate.net/publication/271923649_Software_assurance_practices_for_mobile_applications_A_survey_of_the_state_of_the_art",
+                "reference_type": "Article",
+                "reference_date": "Mar 2014",
+                "reference_abstract": "Mobile software applications have to cope with a particular environment that involves small size, limited resources, high autonomy requirements, competitive business models and many other challenges. To provide development guidelines that respond to these needs, several practices have been introduced; however, it is not clear how these guidelines may contribute to solve the issues present in the mobile domain. Furthermore, the rapid evolution of the mobile ecosystem challenges many of the premises upon which the proposed practices were designed. In this paper, we present a survey of the literature on software assurance practices for mobile applications, with the objective of describing them and assessing their contribution and success. We identified, organized and reviewed a body of research that spans in three levels: software development processes, software product assurance practices, and software implementation practices. By carrying out this literature survey, we reviewed the different approaches that researchers on Software Engineering have provided to address the needs that raise in the mobile software development arena. Moreover, we review the evolution of these practices, identifying how the constant changes and modernization of the mobile execution environment has impacted the methods proposed in the literature. Finally, we introduced discussion on the application of these practices in a real productive setting, opening an area for further research that may determine if practitioners have followed the proposed assurance paradigms."
+            },
+            {
+                "reference_title": "Factors Influncing Quality of Mobile Apps: Role of Mobile App Development Life Cycle",
+                "reference_link": "https://www.researchgate.net/publication/267042696_Factors_Influncing_Quality_of_Mobile_Apps_Role_of_Mobile_App_Development_Life_Cycle",
+                "reference_type": "Article",
+                "reference_date": "Oct 2014",
+                "reference_abstract": "In this paper, The mobile application field has been receiving astronomical\nattention from the past few years due to the growing number of mobile app\ndownloads and withal due to the revenues being engendered .With the surge in\nthe number of apps, the number of lamentable apps/failing apps has withal been\ngrowing.Interesting mobile app statistics are included in this paper which\nmight avail the developers understand the concerns and merits of mobile\napps.The authors have made an effort to integrate all the crucial factors that\ncause apps to fail which include negligence by the developers, technical\nissues, inadequate marketing efforts, and high prospects of the\nusers/consumers.The paper provides suggestions to eschew failure of apps. As\nper the various surveys, the number of lamentable/failing apps is growing\nenormously, primarily because mobile app developers are not adopting a standard\ndevelopment life cycle for the development of apps. In this paper, we have\ndeveloped a mobile application with the aid of traditional software development\nlife cycle phases (Requirements, Design, Develop, Test, and, Maintenance) and\nwe have used UML, M-UML, and mobile application development technologies."
+            },
+            {
+                "reference_title": "Software engineering issues for mobile application development",
+                "reference_link": "https://www.researchgate.net/publication/221560176_Software_engineering_issues_for_mobile_application_development",
+                "reference_type": "Conference Paper",
+                "reference_date": "Jan 2010",
+                "reference_abstract": "This paper provides an overview of important software engineering research issues related to the development of applications that run on mobile devices. Among the topics are development processes, tools, user interface design, application portability, quality, and security."
+            },
+            {
+                "reference_title": "Mobile-D: An Agile Approach for Mobile Application Development",
+                "reference_link": "https://www.researchgate.net/publication/221322054_Mobile-D_An_Agile_Approach_for_Mobile_Application_Development",
+                "reference_type": "Conference Paper",
+                "reference_date": "Jan 2004",
+                "reference_abstract": "Mobile phones have been closed environments until recent years. The change brought by open platform technologies such as the Symbian operating system and Java technologies has opened up a significant business opportunity for anyone to develop application software such as games for mobile terminals. However, developing mobile applications is currently a challenging task due to the specific demands and technical constraints of mobile development. Furthermore, at the moment very little is known about the suitability of the different development processes for mobile application development. Due to these issues, we have developed an agile development approach called Mobile-D. The Mobile-D approach is briefly outlined here and the experiences gained from four case studies are discussed."
+            },
+            {
+                "reference_title": "Software Engineering Process Models For Mobile App Development: A Systematic Literature Review",
+                "reference_link": "https://www.researchgate.net/publication/326896132_Software_Engineering_Process_Models_For_Mobile_App_Development_A_Systematic_Literature_Review",
+                "reference_type": "Article",
+                "reference_date": "Aug 2018",
+                "reference_abstract": "Context: An effective development model can help improve competitive advantage and shorten release cycles, which is vital in the fast paced environment of mobile app development. Objective: The aim with this paper is to provide an extensive review of existing mobile app development models. Method: The review is done by following a systematic literature review process. Also presented is an assessment of the usefulness and relevance to industry of the models based on a rigor and relevance framework. Results: 20 primary studies were identified, each with distinct models. Agile methods or state-based principles are commonly adopted across the models. Relatively little effort focuses on deployment, maintenance, project evaluation activities. Conclusion: The review reveals that the contexts in which the identified models are intended to be used vary. This benefits practitioners as they are able to select a model that suits their contexts. However, the usefulness in industry of most of the models, based on the contexts in which the models were evaluated, is questionable. There is a need for evaluating mobile app models in contexts that resemble realistic contexts. The review also calls for further research addressing special constraints of mobile apps, e.g., testing apps on multiple-platforms, user involvement in release planning and continuous deployment."
+            },
+            {
+                "reference_title": "Software Quality Attributes",
+                "reference_link": "https://www.researchgate.net/publication/319519842_Software_Quality_Attributes",
+                "reference_type": "Chapter",
+                "reference_date": "Jan 2006",
+                "reference_abstract": "Architects must expend a lot of effort precisely understanding quality attributes, so that a design can be conceived to address them. Part of the difficultly is that quality attributes are not always explicitly stated in the requirements, or adequately captured by the requirements engineering team. That\u2019s why an architect must be associated with the requirements gathering exercise for system, so that they can ask the right questions to expose and nail down the quality attributes that must be addressed.\nOf course, understanding the quality attribute requirements is merely a necessary prerequisite to designing a solution to satisfy them. Conflicting quality attributes are a reality in every application of even mediocre complexity. Creating solutions that choose a point in the design space that adequately satisfies these requirements is remarkably difficult, both technically and socially. The latter involves communications with stakeholders to discuss design tolerances, discovering scenarios when certain quality requirements can be safely relaxed, and clearly communicating design compromises so that the stakeholders understand what they are signing up for."
+            },
+            {
+                "reference_title": "Mobile App Development and Management: Results from a Qualitative Investigation",
+                "reference_link": "https://www.researchgate.net/publication/318332201_Mobile_App_Development_and_Management_Results_from_a_Qualitative_Investigation",
+                "reference_type": "Conference Paper",
+                "reference_date": "May 2017",
+                "reference_abstract": null
+            }
+        ]
+    }

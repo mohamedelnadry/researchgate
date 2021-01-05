@@ -9,15 +9,15 @@ RG_REQUEST_TOKEN = "//meta[@name='Rg-Request-Token']"
 
 # paper info
 TITLE = "//h1/text()"
-DATE = "//div[@class='research-detail-header-section__metadata']/div[1]//li/text()"
+DATE = '//meta[@property="citation_publication_date"]/@content'
 DOI = "//div[contains(text(),'DOI:')]/a/text()"
 CONFERENCE = "//li[contains(text(),'Conference:')]/text()"
-CITATIONS_COUNT = "//div[contains(text(),'Citations')]/text()"
-REFERENCES_COUNT = "//div[contains(text(),'References')]/text()"
+CITATIONS_COUNT = "//button[contains(@class,'citations')]//h2/text()"
+REFERENCES_COUNT = "//button[contains(@class,'references')]//h2/text()"
 ABSTRACT = "//div[@itemprop='description']//text()"
 DOWNLOAD_LINK = "//meta[@property='citation_pdf_url']/@content"
-# DOWNLOAD_LENK = "//a[contains(@data-testid,'research-header-cta-download-fulltext')]/@href"
-# DOWNLOAD_BASE_LINK = 
+DOWNLOAD_LINK_ = "//a[contains(@data-testid,'research-header-cta-download-fulltext')]/@href"
+
 
 
 # references section
